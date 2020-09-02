@@ -15,7 +15,7 @@ Design Thinking for Innovation - (On Going...)
 
 ***THE HINDU EDITORIALS***
 :monocle_face:
-```diff
+
 > A Golden Moment: On India's win in Chess Olympiad
 
 By winning the joint championship with RUSSIA in online chess olympiad held on Sunday beacuse of the 44th edition had to be postponed till next year due to the pandemic, INDIA proves that it is growing its stature in the world of chess.The victroy was shared because The Indian team management lodged a complaint, and the FIDE proposed its decision for sharing the championship on which Russia  agreed, beacuse the 2nd round of final was affected by a net outage, due to this India’s Nihal Sarin and Divya Deshmukh had lost on time. Thus, there was a fruitful ending to the final. When Armenians raised similar complaint after the loss of game, to India in the first match of the quarter-final. They protested by not playing the second match and withdrew from the competition. But that incident should not take the sheen off India’s triumph. 
