@@ -1,4 +1,4 @@
-# DAILY ACTIVITY BLOGS
+# DAILY ACTIVITY BLOGS 
 ***02nd September, 2020***
 
 
@@ -11,13 +11,13 @@
 
 *DESIGN Thinking for Innovation* - (On Going...)
 
-> Before you **START**.
+> Before you **START**. 🤔
   1. Identify an opportunity.
   2. Scope your project.
   3. Draft your brief.
   4. Make your plans.
  
- > **Four** most important _question_ in Designing:
+ > **Four** most important _question_ in Designing: 🤔
    
     1. What is?
     2. What if?
@@ -26,8 +26,8 @@
 
 ### SUMMARY
 
-***THE HINDU EDITORIALS***
-:monocle_face:
+***THE HINDU EDITORIALS*** 🧐
+
 
 > A Golden Moment: On India's win in Chess Olympiad.
 
@@ -68,7 +68,7 @@
 
 ### SUMMARY
 
-***THE HINDU EDITORIALS***
+***THE HINDU EDITORIALS*** 🧐
 
 > Grim Sovereign Tangle: On GST compensation standoff.
 
@@ -82,7 +82,7 @@ In July, the Centre paid out the last instalment of fiscal for the economy and i
 
 **COURSE-1** 
  
- *PYTHON for Everybody* - (COMPLETED)
+ *PYTHON for Everybody* - (COMPLETED) ✔
  > Practice on [https://www.hackerrank.com/challenges/py-hello-world/problem]
 
 **COURSE-2**  
@@ -111,7 +111,12 @@ In July, the Centre paid out the last instalment of fiscal for the economy and i
 
 ### SUMMARY
 
-***THE HINDU EDITORIALS***
+***THE HINDU EDITORIALS*** 🧐
 
 > Loyalty test: On Congress and reform.
+
+Far from living up to that claim, Rahul Gandhi led the coterie in questioning the timing and intent of the reformists who did little more than echo his own views about the party’s problems. No one, least of all well-wishers of the Congress party, would find it difficult to disagree with the issues raised by the party leaders such as the erosion of the party base, particularly among the youth, a drift caused by the absence of a full-time president, the dismantling of all forums for discussions in the party, concentration of power, and the disuse of the merit-cum-consensus method of appointments within the party. While the Congress is crumbling, the BJP is advancing its contentious agenda, these leaders pointed out. The notion of a conflict between loyalists and dissenters is being peddled by a gang of self-serving leaders to explain the churn in the Congress.
+
+Those who may not play the obsequious roles conventionally scripted for a Congress leader are Mr. Gandhi’s greatest allies if he were to push for the party’s revival. It is possible that reformists also have a career agenda, but that is no sin in politics.
+
 
