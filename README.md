@@ -11,7 +11,13 @@
 
 *DESIGN Thinking for Innovation* - (On Going...)
 
- > **Four** most important _question_ in designing:
+> Before you **STAR**.
+  1. Identify an opportunity.
+  2. Scope your project.
+  3. Draft your brief.
+  4. Make your plans.
+ 
+ > **Four** most important _question_ in Designing:
    
     1. What is?
     2. What if?
@@ -23,7 +29,7 @@
 ***THE HINDU EDITORIALS***
 :monocle_face:
 
-> A Golden Moment: On India's win in Chess Olympiad
+> A Golden Moment: On India's win in Chess Olympiad.
 
 ~By~ winning the joint championship with RUSSIA in online chess olympiad held on Sunday ~beacuse~ of the 44th edition had to be postponed till next year due to the pandemic, INDIA proves that it is growing its stature in the world of chess.The victroy was shared because The Indian team management lodged a complaint, and the FIDE proposed its decision for sharing the championship on which Russia  agreed, beacuse the 2nd round of final was affected by a net outage, due to this India’s Nihal Sarin and Divya Deshmukh had lost on time. ~Thus~, there was a fruitful ending to the final. When Armenians raised similar complaint after the loss of game, to India in the first match of the quarter-final. They protested by not playing the second match and withdrew from the competition. But that incident should not take the sheen off India’s triumph. 
  
@@ -44,16 +50,68 @@
 **COURSE-2**  
 
 *DESIGN Thinking for Innovation* - (On Going...)
-> *Visualisation*
+> **Tools** of Design Thinking
+  1. Visualisation
+  2. Story Telling
+
+> What is in __WHAT IS__ ?
+  
+  1. Do your RESEARCH.
+  2. Identify INSIGHT.
+  3. Establish design CRITERIA.
+
+> What is in **WHAT IF**?
+  
+  1. Brain storming IDEAS.
+  2. Develop CONCEPTS.
+  3. Creat some NAPKIN PITCHERS.
+
+### SUMMARY
+
+***THE HINDU EDITORIALS***
+
+> Grim Sovereign Tangle: On GST compensation standoff.
+
+All of the profits gained by implmentation of GST have quickly unravelled because the slowdown in the economy, and worsen by COVID-19 lockdowns, has thrown all revenue calculations to the wind. The Centre is obliged to pay to the States, for a duration of 5 years, compensation for revenue shortfalls in return for their having ceded the strength to levy the a multiple of taxes that have been absorbed into the GST. Last week, Finance Minister Nirmala Sitharaman asserted, that the Centre will not be able to meet the compensation shortfall. With GST collections sharply undershooting all targets this year, the Center estimates compensation payable for the full year at ₹3-lakh crore. But just ₹65,000 crore is expected in the cess kitty used to pay out the compensation.
+ 
+In July, the Centre paid out the last instalment of fiscal for the economy and is, so far, yet to pay anything for this year. The Centre contends that only ₹97,000 crore of the revenue shortfall is from implementation of the GST, while ₹1.38-lakh crore is due to remarkable occasions posed by an ‘Act of God’(the pandemic). States can both borrow ₹97,000 crore, without having it added to their debt and with the principal and interest paid out from future cess collections, or they can borrow the entire ₹2.35-lakh crore shortfall, but will must offer for interest payments themselves. Several States have rejected both options and some, including Tamil Nadu, have urged the Center to rethink in view of their essential and urgent spending needs to curb the pandemic and spur growth.
+
+
+***04th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED)
+ > Practice on [https://www.hackerrank.com/challenges/py-hello-world/problem]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (On Going...)
+> 3. Mind Mapping
+    
+    1. Hold a yard sale.
+    2. Invite shoppers.
+    3. Offer tours.
+    4. Pick out good stuff.
+    5. Identify insights and look for *connections* between clusters.
+    6. Translate the insights into design criteria.
+     
+> What is in **WHAT WOWS*?
+  
+  1. Surface key.
+  2. Make prototypes.
+  
+ > What is in **WHAT WORKS**?
+   
+   1. Get FEEDBACKS from stakeholders.
+   2. Run your LEARNING launches.
+   3. Design the ON - RAMP.
 
 
 ### SUMMARY
 
 ***THE HINDU EDITORIALS***
 
-> Grim Sovereign Tangle: On GST compensation standoff
-
-All of the profits gained by implmentation of GST have quickly unravelled because the slowdown in the economy, and worsen by COVID-19 lockdowns, has thrown all revenue calculations to the wind. The Centre is obliged to pay to the States, for a duration of 5 years, compensation for revenue shortfalls in return for their having ceded the strength to levy the a multiple of taxes that have been absorbed into the GST. Last week, Finance Minister Nirmala Sitharaman asserted, that the Centre will not be able to meet the compensation shortfall. With GST collections sharply undershooting all targets this year, the Center estimates compensation payable for the full year at ₹3-lakh crore. But just ₹65,000 crore is expected in the cess kitty used to pay out the compensation.
- 
-In July, the Centre paid out the last instalment of fiscal for the economy and is, so far, yet to pay anything for this year. The Centre contends that only ₹97,000 crore of the revenue shortfall is from implementation of the GST, while ₹1.38-lakh crore is due to remarkable occasions posed by an ‘Act of God’(the pandemic). States can both borrow ₹97,000 crore, without having it added to their debt and with the principal and interest paid out from future cess collections, or they can borrow the entire ₹2.35-lakh crore shortfall, but will must offer for interest payments themselves. Several States have rejected both options and some, including Tamil Nadu, have urged the Center to rethink in view of their essential and urgent spending needs to curb the pandemic and spur growth.
+> Loyalty test: On Congress and reform.
 
