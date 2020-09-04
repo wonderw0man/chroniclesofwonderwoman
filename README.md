@@ -11,7 +11,7 @@
 
 *DESIGN Thinking for Innovation* - (On Going...)
 
-> Before you **STAR**.
+> Before you **START**.
   1. Identify an opportunity.
   2. Scope your project.
   3. Draft your brief.
@@ -97,7 +97,7 @@ In July, the Centre paid out the last instalment of fiscal for the economy and i
     5. Identify insights and look for *connections* between clusters.
     6. Translate the insights into design criteria.
      
-> What is in **WHAT WOWS*?
+> What is in **WHAT WOWS**?
   
   1. Surface key.
   2. Make prototypes.
