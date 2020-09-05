@@ -136,7 +136,7 @@ Those who may not play the obsequious roles conventionally scripted for a Congre
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
- > Practice on [https://www.hackerrank.com/challenges/py-hello-world/problem]
+ > Practice on [hackerrank.com](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem?h_r=next-challenge&h_v=zen)
 
 **COURSE-2**  
 
