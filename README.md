@@ -90,7 +90,7 @@ In July, the Centre paid out the last instalment of fiscal for the economy and i
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
- > Practice on [hackerrank.com][https://www.hackerrank.com/challenges/py-hello-world/problem)
+ > Practice on [hackerrank.com][https://www.hackerrank.com/challenges/py-hello-world/problem]
 
 **COURSE-2**  
 
@@ -137,7 +137,7 @@ Those who may not play the obsequious roles conventionally scripted for a Congre
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
- > Practice on [hackerrank.com][https://www.hackerrank.com/challenges/py-collections-namedtuple/problem?h_r=next-challenge&h_v=zen)
+ > Practice on [hackerrank.com][https://www.hackerrank.com/challenges/py-collections-namedtuple/problem?h_r=next-challenge&h_v=zen]
 
 **COURSE-2**  
 
