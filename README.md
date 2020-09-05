@@ -1,6 +1,8 @@
 # DAILY ACTIVITY BLOGS 
+---
+---
 ***02nd September, 2020***
-
+---
 
 **COURSE-1** 
  
@@ -23,7 +25,7 @@
     2. What if?
     3. What wows?
     4. What works?
-
+---
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
@@ -38,9 +40,11 @@
 
 
 
-
+---
+---
 ***03rd September, 2020***
 
+---
 
 **COURSE-1** 
  
@@ -66,6 +70,7 @@
   2. Develop CONCEPTS.
   3. Creat some NAPKIN PITCHERS.
 
+---
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
@@ -76,9 +81,11 @@ All of the profits gained by implmentation of GST have quickly unravelled becaus
  
 In July, the Centre paid out the last instalment of fiscal for the economy and is, so far, yet to pay anything for this year. The Centre contends that only ₹97,000 crore of the revenue shortfall is from implementation of the GST, while ₹1.38-lakh crore is due to remarkable occasions posed by an ‘Act of God’(the pandemic). States can both borrow ₹97,000 crore, without having it added to their debt and with the principal and interest paid out from future cess collections, or they can borrow the entire ₹2.35-lakh crore shortfall, but will must offer for interest payments themselves. Several States have rejected both options and some, including Tamil Nadu, have urged the Center to rethink in view of their essential and urgent spending needs to curb the pandemic and spur growth.
 
+---
 
+---
 ***04th September, 2020***
-
+---
 
 **COURSE-1** 
  
@@ -107,7 +114,7 @@ In July, the Centre paid out the last instalment of fiscal for the economy and i
    1. Get FEEDBACKS from stakeholders.
    2. Run your LEARNING launches.
    3. Design the ON - RAMP.
-
+---
 
 ### SUMMARY
 
@@ -120,7 +127,8 @@ Far from living up to that claim, Rahul Gandhi led the coterie in questioning th
 Those who may not play the obsequious roles conventionally scripted for a Congress leader are Mr. Gandhi’s greatest allies if he were to push for the party’s revival. It is possible that reformists also have a career agenda, but that is no sin in politics.
 
 
-
+---
+---
 
 ***05th September, 2020***
 
@@ -136,10 +144,13 @@ Those who may not play the obsequious roles conventionally scripted for a Congre
 
 **COURSE-3**  
 
-*Introduction to Git and GitHub* - (On Going...)
+*Introduction to Git and GitHub* - (Basic)
+
+**COURSE - 4**
+*Learn JEKKYL* (Tutorial Completed)✔
 
 
-
+---
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
