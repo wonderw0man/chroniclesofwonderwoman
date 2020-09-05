@@ -144,4 +144,7 @@ Those who may not play the obsequious roles conventionally scripted for a Congre
 
 ***THE HINDU EDITORIALS*** 🧐
 
+> Appropriate strategy: On India banning more China apps.
+
+
 
