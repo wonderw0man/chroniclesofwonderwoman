@@ -120,3 +120,28 @@ Far from living up to that claim, Rahul Gandhi led the coterie in questioning th
 Those who may not play the obsequious roles conventionally scripted for a Congress leader are Mr. Gandhi’s greatest allies if he were to push for the party’s revival. It is possible that reformists also have a career agenda, but that is no sin in politics.
 
 
+
+
+***05th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+ > Practice on [https://www.hackerrank.com/challenges/py-hello-world/problem]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (On Going...)
+
+**COURSE-3**  
+
+*Introduction to Git and GitHub* - (On Going...)
+
+
+
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+
+
