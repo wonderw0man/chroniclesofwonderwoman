@@ -158,5 +158,10 @@ Those who may not play the obsequious roles conventionally scripted for a Congre
 
 > Appropriate strategy: On India banning more China apps.
 
+The blocking of a more than hundreds of Chinese mobile applications suggests that the Indian government, wants to make it clear that it will not shy away from leveraging its position as a massive market for technology in dealing with potentially dangerous geopolitical issues.
+Since June, the government has till now stepped in thrice to block many Chinese applications in one go, including the latest decision on Wednesday where 118 apps were blocked in respect "prejudicial to sovereignty and integrity of India, defence of India, security of State and public order".  Over 200 Chinese apps, which were accessed by millions of Indian users, have been blocked in all till date.
+
+It could be argued that loss of access to the Indian market will sharply affect the ambitions of the Internet giants emerging from China, but it remains to be seen if this tech-side intervention is effective as a counter in a geopolitical fight. Instead, the Indian response to complaints has been to straight away block these apps all together.
+
 
 
