@@ -189,6 +189,12 @@ It could be argued that loss of access to the Indian market will sharply affect 
 
 > The right keys: On Unlock 4.
 
+The Unlock 4 guidelines of the Home Ministry allowing all but a few activities that attract large crowds, with supportive measures by States, reflect deep economic distress. This comes at a time when daily infections are scaling new highs — 78,512 on Monday — and growing at a rate faster than in the U.S. and Brazil, which have held the top spots globally. When the pandemic was unfolding, a major concern was that of a wildfire spread overwhelming a lopsided health-care system, in which intensive care is meager, urban-centric and expensive even for the middle class. This painful reality, of the virus retaining high transmissible and unpredictable disease impacts, is as relevant today as it was then, as people resume their jobs and travel.
+
+When the pandemic was unfolding, a major concern was that of a wildfire spread overwhelming a lopsided health-care system, in which intensive care is meager, urban-centric and expensive even for the middle class.
+
+
+
 
 
 
