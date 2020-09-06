@@ -145,7 +145,7 @@ Those who may not play the obsequious roles conventionally scripted for a Congre
 
 **COURSE-3**  
 
-*Introduction to Git and GitHub* - (Basic)
+*Introduction to Git and GitHub* - (Basic)✔
 
 **COURSE - 4**
 *Learn JEKKYL* (Tutorial Completed)✔
@@ -163,5 +163,28 @@ Since June, the government has till now stepped in thrice to block many Chinese 
 
 It could be argued that loss of access to the Indian market will sharply affect the ambitions of the Internet giants emerging from China, but it remains to be seen if this tech-side intervention is effective as a counter in a geopolitical fight. Instead, the Indian response to complaints has been to straight away block these apps all together.
 
+==-
+
+***05th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+ > Practice on [hackerrank.com]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (On Going...)
+- Emerging Insights:
+  - Creating comfort.
+  - Planned Spontaneity.
+  - Guest-Host Relationship.
+
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
 
 
