@@ -163,9 +163,9 @@ Since June, the government has till now stepped in thrice to block many Chinese 
 
 It could be argued that loss of access to the Indian market will sharply affect the ambitions of the Internet giants emerging from China, but it remains to be seen if this tech-side intervention is effective as a counter in a geopolitical fight. Instead, the Indian response to complaints has been to straight away block these apps all together.
 
-==-
+---
 
-***05th September, 2020***
+***06th September, 2020***
 
 
 **COURSE-1** 
@@ -192,6 +192,20 @@ It could be argued that loss of access to the Indian market will sharply affect 
 The Unlock 4 guidelines of the Home Ministry allowing all but a few activities that attract large crowds, with supportive measures by States, reflect deep economic distress. This comes at a time when daily infections are scaling new highs — 78,512 on Monday — and growing at a rate faster than in the U.S. and Brazil, which have held the top spots globally. When the pandemic was unfolding, a major concern was that of a wildfire spread overwhelming a lopsided health-care system, in which intensive care is meager, urban-centric and expensive even for the middle class. This painful reality, of the virus retaining high transmissible and unpredictable disease impacts, is as relevant today as it was then, as people resume their jobs and travel.
 
 When the pandemic was unfolding, a major concern was that of a wildfire spread overwhelming a lopsided health-care system, in which intensive care is meager, urban-centric and expensive even for the middle class.
+
+
+---
+***07th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+ > Practice on [hackerrank.com]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (On Going...)
 
 
 
