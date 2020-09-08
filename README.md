@@ -208,6 +208,41 @@ When the pandemic was unfolding, a major concern was that of a wildfire spread o
 *DESIGN Thinking for Innovation* - (On Going...)
 
 
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+
+> Deal in danger: On post-Brexit U.K.-EU trade deal.
+
+The agreement had sought to avoid a hard border coming up between Northern Ireland, which is part of the U. The hard Brexiteers in Mr. Johnson’s Conservative Party were critical of this clause, claiming that it endangers the U. laws rather than the divorce agreement. Northern Ireland leaders have already called it a «betrayal». The real risk of cutting the region off the EU customs code is that physical checks could emerge between the two Irelands, threatening the Good Friday agreement that brought peace. With weeks to go before the deadline, there is still no consensus on issues such as workers’ rights, environmental regulations, state aid to businesses and the Irish border.
+
+to adopt rules that are close to its own to ensure a «level playing field» in trade, the British government argues that the whole point of the EU divorce was to break free from common rules. Regarding Northern Ireland, the hard Brexiteers are opposed to any special treatment to the region. The new legislation suggests that the government is hardening its position on Ireland as well. Driven by English nationalist fervour, the British leadership appears to be blind to the economic and political consequences of its hard line.
+
+The Brexiteers have already pushed the U. A no-deal exit will inflict severe economic costs on the British, at a time when the economy is in dire straits due to COVID-19. Besides, it risks disrupting peace in the island of Ireland. They should instead respect the withdrawal agreement, and be flexible in the talks as well as on deadlines.
+
+
+---
+***08th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+ > Practice on [hackerrank.com]
+ 
+ - Studying From [https://www.geeksforgeeks.org/python-3-basics/?ref=lbp]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (On Going...)
+
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+
 
 
 
