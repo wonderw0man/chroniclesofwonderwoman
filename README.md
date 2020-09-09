@@ -243,7 +243,35 @@ The Brexiteers have already pushed the U. A no-deal exit will inflict severe eco
 
 ***THE HINDU EDITORIALS*** 🧐
 
+Test by choice: On rising coronavirus cases in India.
 
+> On September 4, India crossed four million novel coronavirus cases, 13 days after crossing three million on August 22. On Sunday, India surpassed Brazil to record the second highest number of cases in the world. Though the number of tests done each day has been over one million for the past week, the test positivity rate nationally is still high at 7.7%, indicating that testing has to be ramped up. Though the testing done each day by many States has been growing, nearly 50% of them are rapid antigen, of only about 50-60% sensitivity.
+
+Unfortunately, with no repeat testing of negative cases and only a small percentage of people with symptoms but negative results being validated with a RT-PCR, many of the infected are not being diagnosed. The ICMR’s latest advisory provides for testing on demand to «ensure higher levels of testing». With States not validating the negative results from rapid antigen tests with RT-PCR, non-directed tests on demand might help more in increasing the number of tests done each day and hence in reducing the test positivity rate than in early detection and containment. Since many of those infected have mild or no symptoms, tests on demand might be particularly helpful in detecting cases that might otherwise have been missed.
+
+Else, States might be forced to use their discretionary power to deny tests for people not exhibiting symptoms or in low-risk categories, or selectively charge for testing to pay for procurement of testing kits and to avoid more pressure on the testing infrastructure. There is also the possibility of an over-reliance on antigen testing to cope with the growing demand for testing.
+
+
+---
+***09th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://www.geeksforgeeks.org/keywords-python-set-1/?ref=lbp]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (On Going...)
+
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+
+  
 
 
 
