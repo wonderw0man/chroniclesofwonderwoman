@@ -271,6 +271,10 @@ Else, States might be forced to use their discretionary power to deny tests for 
 
 ***THE HINDU EDITORIALS*** 🧐
 
+Vaccine for all: On COVID-19 vaccine policy.
+
+> 
+
   
 
 
