@@ -273,7 +273,38 @@ Else, States might be forced to use their discretionary power to deny tests for 
 
 Vaccine for all: On COVID-19 vaccine policy.
 
-> 
+> In the initial stages, global health leaders have been advancing the vaccine for essential workers and those at risk including senior citizens and those with co-morbidities. Tedros said, «some people in all countries, rather than all people in some countries», should have access to the vaccine in the early phase. Even in this initial stage, the government should make the vaccine available free of cost to those who cannot pay, or at affordable rates. As production kicks off, initial production costs are likely to be high, even astronomical, and it is the duty of governments to cushion the cost.
+
+Leaving gaps in the delivery of the vaccine will only serve to allow the virus to survive, and continue to wreak further damage. India has a fairly reliable vaccine delivery system for children, as part of the universal immunisation programme. All people in the country must have access to the vaccine, and, if necessary, periodic doses of it. Indeed, the mobilisation for this task in India should be nothing short of heroic, as and when the vaccine is available here.
+
+This includes taking sensitive, but firm, decisions guided by evidence, on who will receive the vaccine, how, when and where. Putting down a standard operating protocol for every stage of the vaccine will serve the government well when the baton is finally passed on to it.
+
+
+---
+***10th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (On Going...)
+
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+
+Digital disconnect: On online learning and digital divide.
+
+> The digital chasm that separates the privileged from the deprived remains unbridged years after the broadband policy of 2004, and its effects are painfully evident during the pandemic as students struggle to log on to online classes. Only in Delhi, Himachal Pradesh and Kerala did the survey find Internet access exceeding 50% for urban and rural households taken together, while Punjab, Haryana and Uttarakhand exceeded 40%, unimpressive numbers still. If net connectivity is 5% to 10% in rural Odisha, Madhya Pradesh, Telangana, Karnataka and West Bengal, only a slim minority can hope to do any academic work. Prime Minister Modi has acknowledged the digital divide by announcing in his Independence Day address that all villages would be connected with optical fibre cable in 1,000 days.
+
+Mapping the needs of each district based on the NSO data will help identify areas where children do need equipment and connectivity. The government needs to look at all possibilities and go into overdrive to bridge the digital divide.
+
 
   
 
