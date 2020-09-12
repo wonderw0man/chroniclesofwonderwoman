@@ -305,7 +305,47 @@ Digital disconnect: On online learning and digital divide.
 
 Mapping the needs of each district based on the NSO data will help identify areas where children do need equipment and connectivity. The government needs to look at all possibilities and go into overdrive to bridge the digital divide.
 
+---
+***11th September, 2020***
 
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (On Going...)
+
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+
+> Something rotten: On Sushant Singh Rajput death and the media mob.
+
+
+---
+***11th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+
+>
   
 
 
