@@ -319,6 +319,13 @@ Mapping the needs of each district based on the NSO data will help identify area
 *DESIGN Thinking for Innovation* - (On Going...)
 
 
+**COURSE-3**  
+*S50's Introduction to Computer Science* - (On Going...)
+
+
+
+
+
 ---
 ### SUMMARY
 
@@ -339,6 +346,10 @@ Mapping the needs of each district based on the NSO data will help identify area
 **COURSE-2**  
 
 *DESIGN Thinking for Innovation* - (COMPLETED) ✔
+
+
+**COURSE-3**  
+*S50's Introduction to Computer Science* - (On Going...)
 
 ---
 ### SUMMARY
