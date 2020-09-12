@@ -333,6 +333,13 @@ Mapping the needs of each district based on the NSO data will help identify area
 
 > Something rotten: On Sushant Singh Rajput death and the media mob.
 
+A young talented Bollywood actor tragically ended his life on June 14. But the events that followed Sushant Singh Rajput’s death by suicide have been even more shocking. A section of the media pounced on Rhea, terming her a gold digger, and handed out instant verdicts in the newsroom. That Sushant hailed from poll-bound Bihar added a political dimension impossible to ignore.
+
+The actor, reported to have been suffering from depression, lived in Mumbai, which is now ruled by estranged Bharatiya Janata Party partner, the Shiv Sena, together with the Nationalist Congress Party and Congress, and his demise has become political fodder crossing limits of decency, drawing in other Bollywood celebrities.
+
+Whether Rhea has committed a crime the law will decide, but as she and her family fight this battle, the spotlight is firmly on Indian society and its deeply entrenched prejudices. Women’s rights activists have spoken up against the demonisation of Rhea, and how gender, the clothes she wore, the undefined relationship she had with the actor, all played a role. What is perhaps more disturbing is that many women, far from empathizing with a girl who lost her boyfriend in such circumstances, have been quick to pronounce Rhea guilty of any number of wrongdoings.
+
+
 
 ---
 ***11th September, 2020***
@@ -356,7 +363,13 @@ Mapping the needs of each district based on the NSO data will help identify area
 
 ***THE HINDU EDITORIALS*** 🧐
 
->
+> Glimmer of hope: On India-China five-point consensus.
+India and China have taken the first step to begin real disengagement at the border
+
+The "five-point consensus" reached by the Foreign Ministers of India and China in Moscow on Thursday provides a glimmer of hope of a diplomatic solution, while thousands of troops from both countries remain deployed along the border. At the same time, stark differences remain, including on the key question of whether both sides will return to the status quo ante prior to China’s transgressions. India stressed that peace on the boundary was essential for ties, and that recent incidents had impacted the broader relationship. This characterisation of India’s stand was a sharp contrast from Delhi’s recent public statements, which have emphasised border peace as a prerequisite to taking forward the broader relationship.
+
+Moreover, a day before the talks, China’s official news agency issued a commentary placing the onus entirely on India to defuse tensions, accusing India of «reckless provocations», telling India «to learn from history», and reiterating that China «will not lose an inch of territory». It is welcome that India and China have finally found something to agree on. The continuing rounds of talks should be aimed sincerely at disengagement, and not at presenting a veneer of diplomatic engagement even while China strengthens its hold along the LAC. India will need to verify before it can trust each of China’s steps from now on.
+
   
 
 
