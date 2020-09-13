@@ -342,7 +342,7 @@ Whether Rhea has committed a crime the law will decide, but as she and her famil
 
 
 ---
-***11th September, 2020***
+***12th September, 2020***
 
 
 **COURSE-1** 
@@ -371,6 +371,29 @@ The "five-point consensus" reached by the Foreign Ministers of India and China i
 Moreover, a day before the talks, China’s official news agency issued a commentary placing the onus entirely on India to defuse tensions, accusing India of «reckless provocations», telling India «to learn from history», and reiterating that China «will not lose an inch of territory». It is welcome that India and China have finally found something to agree on. The continuing rounds of talks should be aimed sincerely at disengagement, and not at presenting a veneer of diplomatic engagement even while China strengthens its hold along the LAC. India will need to verify before it can trust each of China’s steps from now on.
 
   
+---
+***13th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+
+**COURSE-3**  
+*S50's Introduction to Computer Science* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> Pushback: On U.S. revoking visa to Chinese students.
+
 
 
 
