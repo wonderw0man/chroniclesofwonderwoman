@@ -320,7 +320,7 @@ Mapping the needs of each district based on the NSO data will help identify area
 
 
 **COURSE-3**  
-*S50's Introduction to Computer Science* - (On Going...)
+*CS50's Introduction to Computer Science* - (On Going...)
 
 
 
@@ -356,7 +356,7 @@ Whether Rhea has committed a crime the law will decide, but as she and her famil
 
 
 **COURSE-3**  
-*S50's Introduction to Computer Science* - (On Going...)
+*CS50's Introduction to Computer Science* - (On Going...)
 
 ---
 ### SUMMARY
@@ -386,7 +386,7 @@ Moreover, a day before the talks, China’s official news agency issued a commen
 > Reading a book **THE DESIGN OF EVERYDAY THINKING**
 
 **COURSE-3**  
-*S50's Introduction to Computer Science* - (On Going...)
+*CS50's Introduction to Computer Science* - (On Going...)
 
 ---
 ### SUMMARY
