@@ -413,5 +413,15 @@ However, in the prior cases of visa issuance bans, the nationals of a single cou
 *DESIGN Thinking for Innovation* - (COMPLETED) ✔
 > Reading a book **THE DESIGN OF EVERYDAY THINKING**
 
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+---
+
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+>
+
 
 
