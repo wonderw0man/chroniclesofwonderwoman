@@ -422,6 +422,10 @@ However, in the prior cases of visa issuance bans, the nationals of a single cou
 
 ***THE HINDU EDITORIALS*** 🧐
 > Long haul ahead: On demand-supportive fiscal policies.
+The most telltale sign of this flattening is the more than halved pace of growth in the solitary use-based industrial activity of the IIP’s six product groups, in which output had turned positive in June. The other five groups posted double-digit contractions, with consumer durables and capital goods shrinking 23.6% and 22.8%, respectively. If the trend in durables attests to the RBI’s evaluation last month that «private consumption has lost its discretionary elements across the board», the capital goods data point to a dismal picture on the investment front. A deeper look at the 23 subcategories of manufacturing shows that only tobacco products and pharmaceuticals posted expansions in July, with the latter benefitting from the increased global demand for medicines, including generic drugs, in the wake of the pandemic.
+
+The manufacture of pharmaceuticals, medicinal chemical and botanical products climbed 22% in July, making it the solitary product to post an expansion of 1.8% over April-July.
+
 
 
 
