@@ -394,7 +394,9 @@ Moreover, a day before the talks, China’s official news agency issued a commen
 
 ***THE HINDU EDITORIALS*** 🧐
 > Pushback: On U.S. revoking visa to Chinese students.
+The Trump administration has revoked visas for more than 1,000 Chinese citizens, mainly students and researchers, deemed to be risks to national security owing to their alleged connections to Chinese military establishments and concern over industrial espionage. The White House’s latest policy action has been housed under Mr. Trump’s May 29 announcement responding to China’s curbs on democracy in Hong Kong. Among the reasons stated was the intention to block the entry of persons associated with slave labour, thought to be a reference to alleged rights violations of China’s Uighur Muslims. This visa policy comes after measures that have tightened the screws on the U. immigration system, including halting the issuance of green cards and skilled worker visas and challenging the issuance of student visas for college programmes that have migrated entirely to online mode due to the pandemic.
 
+However, in the prior cases of visa issuance bans, the nationals of a single country were not targeted in the way that Chinese citizens have been under this week’s visa revocation. The deeper context of this spat is the cycle of hostile tit-for-tat exchanges between Washington and Beijing, principally tariff wars in the realm of trade, but extending to human rights and China’s COVID-19 response. On the one hand the Trump administration might have overreached in this broad-brush policy, perhaps sweeping up innocent researchers with no more than nominal association with a government-affiliated academic entity in China. Either way, China’s economic aggression will continue to face pushback from a wounded and angry America.
 
 
 
