@@ -399,4 +399,19 @@ The Trump administration has revoked visas for more than 1,000 Chinese citizens,
 However, in the prior cases of visa issuance bans, the nationals of a single country were not targeted in the way that Chinese citizens have been under this week’s visa revocation. The deeper context of this spat is the cycle of hostile tit-for-tat exchanges between Washington and Beijing, principally tariff wars in the realm of trade, but extending to human rights and China’s COVID-19 response. On the one hand the Trump administration might have overreached in this broad-brush policy, perhaps sweeping up innocent researchers with no more than nominal association with a government-affiliated academic entity in China. Either way, China’s economic aggression will continue to face pushback from a wounded and angry America.
 
 
+---
+***13th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+
+
 
