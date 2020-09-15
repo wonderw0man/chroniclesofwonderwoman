@@ -445,4 +445,9 @@ The manufacture of pharmaceuticals, medicinal chemical and botanical products cl
 *CS50's Introduction to Computer Science* - (On Going...)
 
 ---
+---
 
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+>
