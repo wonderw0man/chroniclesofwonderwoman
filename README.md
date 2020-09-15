@@ -312,7 +312,7 @@ Mapping the needs of each district based on the NSO data will help identify area
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From []
+> Studying From [https://www.w3schools.com/python/python_variables.asp]
 
 **COURSE-2**  
 
