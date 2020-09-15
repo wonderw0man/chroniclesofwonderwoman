@@ -259,7 +259,7 @@ Else, States might be forced to use their discretionary power to deny tests for 
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From [https://www.geeksforgeeks.org/keywords-python-set-1/?ref=lbp]
+> Studying From []
 
 **COURSE-2**  
 
@@ -287,7 +287,7 @@ This includes taking sensitive, but firm, decisions guided by evidence, on who w
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From [https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp]
+> Studying From []
 
 **COURSE-2**  
 
@@ -312,7 +312,7 @@ Mapping the needs of each district based on the NSO data will help identify area
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From [https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp]
+> Studying From []
 
 **COURSE-2**  
 
@@ -348,7 +348,7 @@ Whether Rhea has committed a crime the law will decide, but as she and her famil
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From [https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp]
+> Studying From []
 
 **COURSE-2**  
 
@@ -378,7 +378,7 @@ Moreover, a day before the talks, China’s official news agency issued a commen
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From [https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp]
+> Studying From []
 
 **COURSE-2**  
 
@@ -406,7 +406,7 @@ However, in the prior cases of visa issuance bans, the nationals of a single cou
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From [https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp]
+> Studying From []
 
 **COURSE-2**  
 
@@ -434,7 +434,7 @@ The manufacture of pharmaceuticals, medicinal chemical and botanical products cl
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From [https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp]
+> Studying From []
 
 **COURSE-2**  
 
@@ -450,4 +450,5 @@ The manufacture of pharmaceuticals, medicinal chemical and botanical products cl
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
->
+> More at the top: on US Open 2020
+
