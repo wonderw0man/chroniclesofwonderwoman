@@ -384,6 +384,7 @@ Moreover, a day before the talks, China’s official news agency issued a commen
 
 *DESIGN Thinking for Innovation* - (COMPLETED) ✔
 > Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
 
 **COURSE-3**  
 *CS50's Introduction to Computer Science* - (On Going...)
@@ -414,6 +415,7 @@ However, in the prior cases of visa issuance bans, the nationals of a single cou
 
 *DESIGN Thinking for Innovation* - (COMPLETED) ✔
 > Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
 
 **COURSE-3**  
 *CS50's Introduction to Computer Science* - (On Going...)
@@ -443,11 +445,11 @@ The manufacture of pharmaceuticals, medicinal chemical and botanical products cl
 
 *DESIGN Thinking for Innovation* - (COMPLETED) ✔
 > Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
 
 **COURSE-3**  
 *CS50's Introduction to Computer Science* - (On Going...)
 
----
 ---
 
 ### SUMMARY
