@@ -259,7 +259,7 @@ Else, States might be forced to use their discretionary power to deny tests for 
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From []
+> Studying From [https://www.w3schools.com/python/python_syntax.asp]
 
 **COURSE-2**  
 
