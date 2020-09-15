@@ -348,7 +348,7 @@ Whether Rhea has committed a crime the law will decide, but as she and her famil
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From []
+> Studying From [https://www.w3schools.com/python/python_datatypes.asp]
 
 **COURSE-2**  
 
