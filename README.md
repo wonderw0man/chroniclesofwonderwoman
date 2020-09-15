@@ -436,8 +436,8 @@ The manufacture of pharmaceuticals, medicinal chemical and botanical products cl
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From [https://www.w3schools.com/python/python_strings.asp]
- - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_strings8]
+> Studying From []
+ - Practice From []
 
 **COURSE-2**  
 
