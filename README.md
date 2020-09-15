@@ -400,7 +400,7 @@ However, in the prior cases of visa issuance bans, the nationals of a single cou
 
 
 ---
-***13th September, 2020***
+***14th September, 2020***
 
 
 **COURSE-1** 
@@ -427,5 +427,22 @@ The most telltale sign of this flattening is the more than halved pace of growth
 The manufacture of pharmaceuticals, medicinal chemical and botanical products climbed 22% in July, making it the solitary product to post an expansion of 1.8% over April-July.
 
 
+---
+***14th September, 2020***
 
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://www.geeksforgeeks.org/namespaces-and-scope-in-python/?ref=lbp]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+---
 
