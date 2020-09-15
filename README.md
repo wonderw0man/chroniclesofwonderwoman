@@ -406,7 +406,9 @@ However, in the prior cases of visa issuance bans, the nationals of a single cou
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From []
+> Studying From [https://www.w3schools.com/python/python_strings.asp]
+ - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_strings8]
+
 
 **COURSE-2**  
 
@@ -428,13 +430,14 @@ The manufacture of pharmaceuticals, medicinal chemical and botanical products cl
 
 
 ---
-***14th September, 2020***
+***15th September, 2020***
 
 
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From []
+> Studying From [https://www.w3schools.com/python/python_strings.asp]
+ - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_strings8]
 
 **COURSE-2**  
 
