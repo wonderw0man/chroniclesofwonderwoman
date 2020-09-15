@@ -287,7 +287,7 @@ This includes taking sensitive, but firm, decisions guided by evidence, on who w
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From []
+> Studying From [https://www.w3schools.com/python/python_comments.asp]
 
 **COURSE-2**  
 
