@@ -378,7 +378,7 @@ Moreover, a day before the talks, China’s official news agency issued a commen
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From []
+> Studying From [https://www.w3schools.com/python/python_numbers.asp]
 
 **COURSE-2**  
 
