@@ -463,7 +463,7 @@ The most recent was in Melbourne early this year, where he came within a set of 
 The immediate future of tennis may lie in a sequestered world of bio-secure bubbles, but barriers are no doubt being taken down.
 
 ---
-***15th September, 2020***
+***16th September, 2020***
 
 
 **COURSE-1** 
@@ -486,6 +486,8 @@ The immediate future of tennis may lie in a sequestered world of bio-secure bubb
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
+> Venus in focus.
+
 
 
 
