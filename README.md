@@ -462,4 +462,19 @@ The most recent was in Melbourne early this year, where he came within a set of 
 
 The immediate future of tennis may lie in a sequestered world of bio-secure bubbles, but barriers are no doubt being taken down.
 
+---
+***15th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://www.w3schools.com/python/python_booleans.asp]
+ - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_booleans1]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+
+
 
