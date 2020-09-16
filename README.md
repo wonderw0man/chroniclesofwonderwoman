@@ -475,6 +475,17 @@ The immediate future of tennis may lie in a sequestered world of bio-secure bubb
 **COURSE-2**  
 
 *DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+---
+
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
 
 
 
