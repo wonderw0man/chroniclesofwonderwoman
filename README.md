@@ -456,4 +456,10 @@ The manufacture of pharmaceuticals, medicinal chemical and botanical products cl
 
 ***THE HINDU EDITORIALS*** 🧐
 > More at the top: on US Open 2020.
+The 2020 US Open, which concluded at New York on Sunday, may not have had its usual star dust, but that should not deflect from the excellence of Dominic Thiem and Naomi Osaka, who won their first and third Grand Slam singles titles, respectively. 1 Novak Djokovic, chasing Federer’s all-time record of 20 Grand Slams, took the bait, only to be disqualified in the fourth round for accidentally striking a line judge with the ball. Statistics aside, the tournament provided the first glimpse of how men’s tennis could shape up in the absence of Federer, Djokovic and Nadal. The Thiem-led mid-card, which also includes Zverev, Daniil Medvedev and Stefanos Tsitsipas, made good on its promise and provided three of the four semifinalists.
+
+The most recent was in Melbourne early this year, where he came within a set of defeating Djokovic in the final after having already felled the then World No. The Japanese is the most decorated Asian singles player and her use of the platform of being the most marketable sportswoman on the planet to highlight instances of racial injustice has captured the world’s imagination. Serena, who failed yet again in her quest to capture a record-equalling 24th Grand Slam, will remain the top draw as long as she plays. But Osaka has carved out her own identity.
+
+The immediate future of tennis may lie in a sequestered world of bio-secure bubbles, but barriers are no doubt being taken down.
+
 
