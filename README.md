@@ -469,8 +469,8 @@ The immediate future of tennis may lie in a sequestered world of bio-secure bubb
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From [https://www.w3schools.com/python/python_booleans.asp]
- - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_booleans1]
+> Studying From []
+ - Practice From []
 
 **COURSE-2**  
 
