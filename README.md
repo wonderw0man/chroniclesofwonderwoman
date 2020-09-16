@@ -487,6 +487,13 @@ The immediate future of tennis may lie in a sequestered world of bio-secure bubb
 
 ***THE HINDU EDITORIALS*** 🧐
 > Venus in focus.
+Earth's "sister planet" - Venus, the hottest planet in the solar system with surface temperature above 460 degree celcius, the planet was considered hostile to life.
+Earlier there was a signs of ozone found by the European Space Agency in their mission Venus Express. Now in the recent discovery of traces of phosphine in its atmosphere has given a reason to search for extraterrestrial life. Through extraordinary chemistry and thermodynamics of the biology and life states the fact that when hostile conditions are added on Venus's surface, lure possiblities of phosphine's survival.
+
+Prof. Jane S. Greaves of Cardiff University first identified phosphine in Venus's atmosphere in 2017, using the James Clerk Maxwell Telescope in Hawaii. The suspicions of research was confirmed in 2019, by further study and precise observations using the Atacama Large mm / sub-mm Array facility in Chile.
+
+The presence of sulphuric acid in the atmoshphere of Venus makes it highly corrosive. Pherpas flying at a height and sending down the drones and ballons are more feasible than landing. NASA's mission is slated for launch next year, while ISRO is looking at 2023 rightnow.
+Large number of collaborations may well improve chances of efficiently searching the dense atmosphere of the sister planet.
 
 
 
