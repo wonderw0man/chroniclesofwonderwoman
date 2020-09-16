@@ -492,7 +492,7 @@ Earlier there was a signs of ozone found by the European Space Agency in their m
 
 Prof. Jane S. Greaves of Cardiff University first identified phosphine in Venus's atmosphere in 2017, using the James Clerk Maxwell Telescope in Hawaii. The suspicions of research was confirmed in 2019, by further study and precise observations using the Atacama Large mm / sub-mm Array facility in Chile.
 
-The presence of sulphuric acid in the atmoshphere of Venus makes it highly corrosive. Pherpas flying at a height and sending down the drones and ballons are more feasible than landing. NASA's mission is slated for launch next year, while ISRO is looking at 2023 rightnow.
+The presence of sulphuric acid in the atmoshphere of Venus makes it highly corrosive. Pherpas flying at a height and sending down the drones and ballons are more feasible than landing. NASA's mission is covered for launch next year, while ISRO is looking at 2023 rightnow.
 Large number of collaborations may well improve chances of efficiently searching the dense atmosphere of the sister planet.
 
 
