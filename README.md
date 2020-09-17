@@ -504,7 +504,7 @@ Large number of collaborations may well improve chances of efficiently searching
  
  *PYTHON for Everybody* - (COMPLETED) ✔
 > Studying From []
- - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_lists2]
+ - Practice From []
  
  
 **COURSE-2**  
