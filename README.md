@@ -503,7 +503,7 @@ Large number of collaborations may well improve chances of efficiently searching
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From []
+> Studying From [https://www.w3schools.com/python/python_tuples.asp]
  - Practice From []
  
  
