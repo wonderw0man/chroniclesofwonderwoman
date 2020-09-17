@@ -496,5 +496,23 @@ The presence of sulphuric acid in the atmoshphere of Venus makes it highly corro
 Large number of collaborations may well improve chances of efficiently searching the dense atmosphere of the sister planet.
 
 
+---
+***16th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://www.w3schools.com/python/python_lists.asp]
+ - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_lists2]
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
+
+
 
 
