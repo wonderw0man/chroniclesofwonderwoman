@@ -504,7 +504,7 @@ Large number of collaborations may well improve chances of efficiently searching
  
  *PYTHON for Everybody* - (COMPLETED) ✔
 > Studying From [https://www.w3schools.com/python/python_tuples.asp]
- - Practice From []
+ - Practice From [codesdope.com/practice/python-make-a-list/]
  
  
 **COURSE-2**  
