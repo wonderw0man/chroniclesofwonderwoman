@@ -408,7 +408,7 @@ However, in the prior cases of visa issuance bans, the nationals of a single cou
  
  *PYTHON for Everybody* - (COMPLETED) ✔
 > Studying From [https://www.w3schools.com/python/python_strings.asp]
- - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_strings8]
+  - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_strings8]
 
 
 **COURSE-2**  
@@ -439,7 +439,7 @@ The manufacture of pharmaceuticals, medicinal chemical and botanical products cl
  
  *PYTHON for Everybody* - (COMPLETED) ✔
 > Studying From [https://www.w3schools.com/python/python_booleans.asp]
- - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_booleans1]
+  - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_booleans1]
 
 **COURSE-2**  
 
@@ -470,7 +470,7 @@ The immediate future of tennis may lie in a sequestered world of bio-secure bubb
  
  *PYTHON for Everybody* - (COMPLETED) ✔
 > Studying From [https://www.w3schools.com/python/python_lists.asp]
- - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_lists2]
+  - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_lists2]
 
 **COURSE-2**  
 
@@ -504,7 +504,7 @@ Large number of collaborations may well improve chances of efficiently searching
  
  *PYTHON for Everybody* - (COMPLETED) ✔
 > Studying From [https://www.w3schools.com/python/python_tuples.asp]
- - Practice From [codesdope.com/practice/python-make-a-list/]
+  - Practice From [codesdope.com/practice/python-make-a-list/]
  
  
 **COURSE-2**  
@@ -522,6 +522,7 @@ Large number of collaborations may well improve chances of efficiently searching
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> New order in West Asia: On Abraham Accords.
+
 
 
