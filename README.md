@@ -517,4 +517,11 @@ Large number of collaborations may well improve chances of efficiently searching
 **COURSE-3**  
 *CS50's Introduction to Computer Science* - (On Going...)
 
+---
+
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
+
 
