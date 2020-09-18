@@ -529,5 +529,16 @@ Though of historical and geopolitical significance, it is too early to say wheth
 
 But it does not mean that the Palestinian question would fade away. Three, the UAE-Bahrain agreements are in fact endorsing the region’s emerging order.
 
+---
+***17th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://www.w3schools.com/python/python_tuples.asp]
+  - Practice From [codesdope.com/practice/python-make-a-list/]
+ 
+
 
 
