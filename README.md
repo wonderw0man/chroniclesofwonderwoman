@@ -536,7 +536,7 @@ But it does not mean that the Palestinian question would fade away. Three, the U
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From [https://www.w3schools.com/python/python_tuples.asp]
+> Studying From []
   - Practice From [codesdope.com/practice/python-make-a-list/]
  
 
