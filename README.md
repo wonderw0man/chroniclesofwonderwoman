@@ -523,6 +523,11 @@ Large number of collaborations may well improve chances of efficiently searching
 
 ***THE HINDU EDITORIALS*** 🧐
 > New order in West Asia: On Abraham Accords.
+Under the agreement, the UAE and Bahrain would normalise ties with Israel, heralding better economic, political and security engagement. More Arab countries are expected to follow suit, say U. The agreements have the backing of Saudi Arabia, arguably the most influential Arab power and a close ally of the UAE and Bahrain. The ailing, octogenarian ruler of the Kingdom, Salman bin Abdulaziz, is treading cautiously for now, but Riyadh has opened its airspace for commercial flights between the UAE and Israel. The accords, the first between Israel and Arab countries since the 1994 Jordan-Israel peace treaty, also offer a rare diplomatic win to Mr. With less than 50 days to go before his re-election bid, he has called the agreements «the new dawn of a new Middle East».
+
+Though of historical and geopolitical significance, it is too early to say whether the accords will have any meaningful impact on West Asia’s myriad conflicts. Unlike Egypt and Jordan, which signed peace treaties with Israel in 1979 and 1994, respectively, the Gulf countries are not frontline states in the Arab-Israeli conflict. Second, the agreements leave the Palestinian question largely unaddressed. With Arab countries signing diplomatic agreements with Israel bilaterally, the Arab collective support for the Palestinian movement for nationhood, which has been the basis of the 2002 Arab Peace Initiative, is crumbling.
+
+But it does not mean that the Palestinian question would fade away. Three, the UAE-Bahrain agreements are in fact endorsing the region’s emerging order.
 
 
 
