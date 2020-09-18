@@ -540,5 +540,13 @@ But it does not mean that the Palestinian question would fade away. Three, the U
   - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_sets1]
  
 
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
+
+**COURSE-3**  
 
 
