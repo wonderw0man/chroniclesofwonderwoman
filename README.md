@@ -584,7 +584,7 @@ The Serum Institute has committed to producing 100 million doses of its vaccine 
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
->
+> Continuity in change: On Japan’s new Prime Minister.
 
 
 
