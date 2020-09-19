@@ -569,6 +569,16 @@ The Serum Institute has committed to producing 100 million doses of its vaccine 
  *PYTHON for Everybody* - (COMPLETED) ✔
 > Studying From [https://www.w3schools.com/python/python_sets.asp]
   - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_sets1]
+  
+ 
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
+
+
  
 
 
