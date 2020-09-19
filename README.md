@@ -560,4 +560,15 @@ The Russian Direct Investment Fund , which is piloting the Sputnik V vaccine, ha
 The Serum Institute has committed to producing 100 million doses of its vaccine for India and other ‘Low and Middle Income Countries’ at less than $3 per dose. Reportedly, half of these are for India. All in all, there seems to be a guarantee for only about 150 million doses for India, which given the country’s population is minuscule.
 
 
+---
+***18th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://www.w3schools.com/python/python_sets.asp]
+  - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_sets1]
+ 
+
 
