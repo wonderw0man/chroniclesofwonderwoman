@@ -555,5 +555,9 @@ But it does not mean that the Palestinian question would fade away. Three, the U
 
 ***THE HINDU EDITORIALS*** 🧐
 > Need for caution: On Russia’s Sputnik V vaccine.
+The Russian Direct Investment Fund , which is piloting the Sputnik V vaccine, has announced a partnership with the Hyderabad-based Dr. Sputnik V is being developed as a two-dose vaccine on a human adenovirus vaccine platform. Several vaccines that are in development are also being deployed on similar platforms, and the evidence so far is that none of these has been commercially approved for use in humans though there is an experimental vaccine for Ebola. Results of the Phase-1 and Phase-2 trials of the vaccine, published in The Lancet, suggest that the evidence so far is that it has proven safe and efficacious enough to progress to the next stage of trials. There is immense political pressure globally on regulatory agencies to get a vaccine out at the earliest.
+
+The Serum Institute has committed to producing 100 million doses of its vaccine for India and other ‘Low and Middle Income Countries’ at less than $3 per dose. Reportedly, half of these are for India. All in all, there seems to be a guarantee for only about 150 million doses for India, which given the country’s population is minuscule.
+
 
 
