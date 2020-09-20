@@ -621,6 +621,9 @@ It is significant that one of the new government’s first engagements is likely
 *CS50's Introduction to Computer Science* - (On Going...)
 
 
- 
+---
+### SUMMARY
 
+***THE HINDU EDITORIALS*** 🧐
+> 
 
