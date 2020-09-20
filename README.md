@@ -625,5 +625,5 @@ It is significant that one of the new government’s first engagements is likely
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Market failure: On agriculture sector reforms.
 
