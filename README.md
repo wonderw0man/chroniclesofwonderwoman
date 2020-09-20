@@ -561,7 +561,7 @@ The Serum Institute has committed to producing 100 million doses of its vaccine 
 
 
 ---
-***18th September, 2020***
+***19th September, 2020***
 
 
 **COURSE-1** 
