@@ -597,7 +597,7 @@ It is significant that one of the new government’s first engagements is likely
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
-> Studying From [https://www.w3schools.com/python/python_dictionaries.asp]
+> Studying From []
   - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries1]
 
  
