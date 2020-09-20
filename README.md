@@ -600,16 +600,6 @@ It is significant that one of the new government’s first engagements is likely
 > Studying From [https://www.w3schools.com/python/python_dictionaries.asp]
   - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries1]
 
-  
- 
-**COURSE-2**  
-
-*DESIGN Thinking for Innovation* - (COMPLETED) ✔
-> Reading a book **THE DESIGN OF EVERYDAY THINKING**
-  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
-
-
-  
  
 **COURSE-2**  
 
