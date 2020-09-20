@@ -598,7 +598,7 @@ It is significant that one of the new government’s first engagements is likely
  
  *PYTHON for Everybody* - (COMPLETED) ✔
 > Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1152f01-db63-4142-a98d-aabc00930a52]
-  - Practice From []
+  - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/Operators%20and%20list.ipynb]
 
  
 **COURSE-2**  
