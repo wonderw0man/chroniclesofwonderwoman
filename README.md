@@ -585,7 +585,20 @@ The Serum Institute has committed to producing 100 million doses of its vaccine 
 
 ***THE HINDU EDITORIALS*** 🧐
 > Continuity in change: On Japan’s new Prime Minister.
+Less than a month after his sudden announcement that he would step down due to health reasons, Japan’s longest serving Prime Minister, Shinzo Abe, 65, has passed on the baton to his long-term associate, Yoshihide Suga, 71. Suga promises continuity rather than change as he takes the reins. Suga was Minister of State for Internal Affairs and Communications during Mr. Suga said his goal is to continue with Mr. His close personal relationship with Mr. Modi, both seen as «strongmen» leaders, built on his earlier partnership with former Prime Minister Manmohan Singh, with whom he shared his famous «three arrows» economic strategy called ‘Abenomics’. Suga would be well aware of the big shoes he must fill and the importance of the relationship with India for Japan.
 
+It is significant that one of the new government’s first engagements is likely to be the Foreign Minister-level meeting of the Quad countries in Tokyo next month, which will also give New Delhi insight into how much has changed and how much will stay the same in Japan’s view of the world with the change at the helm.
+
+
+---
+***19th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://www.w3schools.com/python/python_dictionaries.asp]
+  - Practice From [https://www.w3schools.com/python/exercise.asp?filename=exercise_dictionaries1]
 
 
 
