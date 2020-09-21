@@ -632,3 +632,10 @@ If the Centre’s intent is to strengthen competition, it should massively fund 
 > Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1152f01-db63-4142-a98d-aabc00930a52]
   - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/Operators%20and%20list.ipynb]
 
+
+ 
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
