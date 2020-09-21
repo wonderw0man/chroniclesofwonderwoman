@@ -649,4 +649,4 @@ If the Centre’s intent is to strengthen competition, it should massively fund 
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Cricket in action: On IPL 2020.
