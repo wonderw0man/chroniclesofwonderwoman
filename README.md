@@ -644,3 +644,9 @@ If the Centre’s intent is to strengthen competition, it should massively fund 
 **COURSE-3**  
 *CS50's Introduction to Computer Science* - (On Going...)
 
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
