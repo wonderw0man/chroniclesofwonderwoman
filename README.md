@@ -616,4 +616,9 @@ It is significant that one of the new government’s first engagements is likely
 
 ***THE HINDU EDITORIALS*** 🧐
 > Market failure: On agriculture sector reforms.
+Several States have already liberalized agricultural marketing, amending their APMC Acts, and some have allowed regulated private commerce including direct marketing. Yet, provisions in the Farmers’ Produce Trade and Commerce Bill, 2020, providing for unfettered commerce in designated trade areas outside APMC jurisdictions without levy of any fee, and more generally, empowering the Centre to issue orders to States in furtherance of the law’s objectives, have alarmed States. A challenge has been mounted by Rajasthan, declaring central warehouses as procurement centres under its APMC Act, and therefore required to pay a market fee to the State. When Bihar removed the APMC system, markets suffered loss of fee revenue, with no significant private investments in the sector.
+
+If the Centre’s intent is to strengthen competition, it should massively fund the expansion of the APMC market system, removing trade cartels, and providing farmers good roads, logistics of scale and real time information. Rather than opt for heavy centralisation, the emphasis should be on empowering farmers through State Farmers Commissions recommended by the NCF, to bring about a speedy government response to issues. Without strong institutional arrangements, laissez-faire policy may harm lakhs of unorganised small farmers, who have been remarkably productive and shored up the economy even during a pandemic.
+
+
 
