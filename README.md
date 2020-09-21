@@ -623,7 +623,7 @@ If the Centre’s intent is to strengthen competition, it should massively fund 
 
 
 ---
-***20th September, 2020***
+***21st September, 2020***
 
 
 **COURSE-1** 
