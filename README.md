@@ -622,3 +622,13 @@ If the Centre’s intent is to strengthen competition, it should massively fund 
 
 
 
+---
+***20th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c1152f01-db63-4142-a98d-aabc00930a52]
+  - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/Operators%20and%20list.ipynb]
+
