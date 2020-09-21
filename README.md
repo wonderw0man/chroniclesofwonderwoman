@@ -630,7 +630,7 @@ If the Centre’s intent is to strengthen competition, it should massively fund 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
 > Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ee33cc6-06ef-4a68-973c-aabc00af0cb5]
-  - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/Operators%20and%20list.ipynb]
+  - Practice From []
 
 
  
