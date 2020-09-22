@@ -672,6 +672,10 @@ Cricket in the Indian context has made a start and a lot is at stake as this IPL
 > Reading a book **THE DESIGN OF EVERYDAY THINKING**
   [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
 
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+
 
 
 
