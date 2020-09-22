@@ -665,10 +665,6 @@ Cricket in the Indian context has made a start and a lot is at stake as this IPL
  *PYTHON for Everybody* - (COMPLETED) ✔
 > Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3ee33cc6-06ef-4a68-973c-aabc00af0cb5]
   - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/Operators%20and%20list.ipynb]
-
-
-
-
  
 **COURSE-2**  
 
@@ -677,13 +673,5 @@ Cricket in the Indian context has made a start and a lot is at stake as this IPL
   [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
 
 
-**COURSE-3**  
-*CS50's Introduction to Computer Science* - (On Going...)
 
-
----
-### SUMMARY
-
-***THE HINDU EDITORIALS*** 🧐
-> 
 
