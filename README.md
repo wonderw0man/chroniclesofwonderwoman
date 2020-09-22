@@ -650,3 +650,12 @@ If the Centre’s intent is to strengthen competition, it should massively fund 
 
 ***THE HINDU EDITORIALS*** 🧐
 > Cricket in action: On IPL 2020.
+The Twenty20 tournament seemingly brooked no resistance while the purists leant on the classical air that permeated Test cricket. Even in 2009 and 2014 when the Lok Sabha elections clashed with the IPL’s schedule, the Board of Control for Cricket in India solved the logistical nightmare. Because of the constraints imposed by the virus and the cancellation of domestic cricket in India for now, the IPL at the Emirates, has turned out to be the season opener for the national players while also offering an opportunity for overseas stars to have a biff in the park. The players have to watch their health-parameters while helping cricket find its feet, an endeavour that England did first with remarkable efficiency by hosting the West Indies, Pakistan and Australia.
+
+Cricket in the Indian context has made a start and a lot is at stake as this IPL also offers a stage for Kohli and company to prepare for the coming tour of Australia.
+
+
+
+
+
+
