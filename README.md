@@ -687,3 +687,7 @@ Rajya Sabha Deputy Chairman Harivansh’s refusal to conduct a division of votes
 The explanation that members were not demanding a division from their seats and the House was not in order is disingenuous. To begin with, the disorder was triggered by the Chair’s refusal to order a division. Significant amendments were sought and several parties had demanded that they be referred to a parliamentary select committee. The flat out denial of a division of votes was a new low in parliamentary history.
 
 Not stopping there, eight Opposition members were suspended for one week while notice for a no-confidence motion against the Deputy Chairman was rejected at the threshold by Chairman M. Venkaiah Naidu.
+
+
+---
+***22nd September, 2020***
