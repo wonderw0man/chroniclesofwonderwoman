@@ -715,4 +715,4 @@ Not stopping there, eight Opposition members were suspended for one week while n
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> A new world order: On UN reforms.
