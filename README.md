@@ -698,3 +698,12 @@ Not stopping there, eight Opposition members were suspended for one week while n
  *PYTHON for Everybody* - (COMPLETED) ✔
 > Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05c844a0-af9e-4ada-9d08-aabd0045a79e]
   - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/Operators%20and%20list.ipynb#List]
+  
+  
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
+
