@@ -682,4 +682,8 @@ Cricket in the Indian context has made a start and a lot is at stake as this IPL
 
 ***THE HINDU EDITORIALS*** 🧐
 > A point of order: On farm bills.
+Rajya Sabha Deputy Chairman Harivansh’s refusal to conduct a division of votes on two controversial pieces of legislation on Sunday, despite persistent demands from members, was unprecedented in its sheer brazenness. The rules of procedure regarding voting are unambiguous that if a voice vote is challenged, «votes shall be taken by operating the automatic vote recorder or by the members going into the Lobbies». Even if a single member demands a division, it is required to be carried out. Quite often, a division of vote is demanded even when the outcome is predictable, in order to bring on record the positions of parties and members on a particular bill.
 
+The explanation that members were not demanding a division from their seats and the House was not in order is disingenuous. To begin with, the disorder was triggered by the Chair’s refusal to order a division. Significant amendments were sought and several parties had demanded that they be referred to a parliamentary select committee. The flat out denial of a division of votes was a new low in parliamentary history.
+
+Not stopping there, eight Opposition members were suspended for one week while notice for a no-confidence motion against the Deputy Chairman was rejected at the threshold by Chairman M. Venkaiah Naidu.
