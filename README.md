@@ -733,5 +733,10 @@ Frequent divisions within the UNSC P-5 end up blocking key decisions.
 > Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65dbb5ef-2c33-4f91-9848-aabd00982d8d]
   - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/Boolean%20and%20Dictionaries%20.ipynb]
   
-  
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
 
