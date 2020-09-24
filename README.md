@@ -745,4 +745,8 @@ Frequent divisions within the UNSC P-5 end up blocking key decisions.
 *CS50's Introduction to Computer Science* - (On Going...)
 
 
+---
+### SUMMARY
 
+***THE HINDU EDITORIALS*** 🧐
+> 
