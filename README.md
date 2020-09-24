@@ -719,3 +719,7 @@ Not stopping there, eight Opposition members were suspended for one week while n
 At a special session marking 75 years of the United Nations on Tuesday, Prime Minister Narendra Modi called for reform of its «outdated structures», pointing out that in the absence of comprehensive changes, the world body today faces a «crisis of confidence». India has been at the forefront of demanding reform in the UN, particularly its principal organ, the Security Council, for decades, staking its claim as one of the world’s largest economies and most populous countries, with a track record in promoting a rules-based international order, and contributing to peacekeeping through UN forces. The UN was born in the crisis of the World War era, and the realities of that time can hardly be compared to the present. The UNSC does not include a permanent member from the African, Australian and South American continents, and the pillars of the multilateral order, such as the G-4 group of Brazil, India, Germany and Japan, have been ignored for long.
 
 Frequent divisions within the UNSC P-5 end up blocking key decisions.
+
+
+---
+***23rd September, 2020***
