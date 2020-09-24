@@ -723,3 +723,15 @@ Frequent divisions within the UNSC P-5 end up blocking key decisions.
 
 ---
 ***24th September, 2020***
+
+
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65dbb5ef-2c33-4f91-9848-aabd00982d8d]
+  - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/Boolean%20and%20Dictionaries%20.ipynb]
+  
+  
+
