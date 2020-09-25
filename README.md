@@ -782,4 +782,5 @@ These issues are all the more important given that in recent years there has bee
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Terms of disengagement: On India-China standoff.
+
