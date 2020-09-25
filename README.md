@@ -725,8 +725,6 @@ Frequent divisions within the UNSC P-5 end up blocking key decisions.
 ***24th September, 2020***
 
 
-
-
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
@@ -750,3 +748,8 @@ Frequent divisions within the UNSC P-5 end up blocking key decisions.
 
 ***THE HINDU EDITORIALS*** 🧐
 > A light touch: On regulation of digital media
+The government has twice signaled in recent days that more rules are out of the question for dealing with illegal content and misinformation causing harm in the digital media space. In a statement filed in the Sudarshan TV case on Monday, in response to a Supreme Court call for proposals to improve the self-regulatory mechanism for electronic media, the center said regulating web-based digital media was a must instead. Without any controls, according to the Court of Justice, digital media can spread "toxic hatred", terror and violence. In recent years, there have been many lifetimes of such violence driven by misinformation in India.
+
+These issues are all the more important given that in recent years there has been a wave of investment in the digital news media space. A large number of these media sites and magazines seek legitimate journalistic initiatives that not only have appropriate quality assurance mechanisms, but also operate with a high degree of accountability.
+
+
