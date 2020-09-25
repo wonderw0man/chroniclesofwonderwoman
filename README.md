@@ -753,3 +753,33 @@ The government has twice signaled in recent days that more rules are out of the 
 These issues are all the more important given that in recent years there has been a wave of investment in the digital news media space. A large number of these media sites and magazines seek legitimate journalistic initiatives that not only have appropriate quality assurance mechanisms, but also operate with a high degree of accountability.
 
 
+
+---
+***24th September, 2020***
+
+
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65dbb5ef-2c33-4f91-9848-aabd00982d8d]
+  - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/Boolean%20and%20Dictionaries%20.ipynb]
+  
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
+
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
