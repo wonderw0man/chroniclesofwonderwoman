@@ -758,8 +758,6 @@ These issues are all the more important given that in recent years there has bee
 ***25th September, 2020***
 
 
-
-
 **COURSE-1** 
  
  *PYTHON for Everybody* - (COMPLETED) ✔
