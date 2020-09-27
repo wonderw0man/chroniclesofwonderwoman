@@ -794,7 +794,7 @@ The joint press release makes no mention of restoring the status quo ante from A
  *PYTHON for Everybody* - (COMPLETED) ✔
 
 > Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3fee248-84ba-408d-a15e-aabe0060e083]
-  - Practice From []
+  - Practice From [http://localhost:8888/tree/ds]
   
 **COURSE-2**  
 
