@@ -796,4 +796,10 @@ The joint press release makes no mention of restoring the status quo ante from A
 > Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3fee248-84ba-408d-a15e-aabe0060e083]
   - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/Boolean%20and%20Dictionaries%20.ipynb]
   
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
 
