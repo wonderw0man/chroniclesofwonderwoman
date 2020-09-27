@@ -785,4 +785,11 @@ stressing that many questions remain unanswered. While this deal has the potenti
 
 The joint press release makes no mention of restoring the status quo ante from April, only referring to any unilateral change in the situation on the ground, which refers to the current status quo. At the same time, a second joint public statement in as many weeks is a positive development in itself, showing that the two intend to stabilize the situation, even though their motives may be different. For the Indian government, such a statement in the middle of a parliamentary session where it was faced with questions about its handling of the LAC situation sends the message that the Chinese crisis is under control.
 
+---
+***25th September, 2020***
+
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
 
