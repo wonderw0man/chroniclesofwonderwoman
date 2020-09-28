@@ -826,7 +826,7 @@ The threshold for considering any room as a factory has also been raised from 10
  *PYTHON for Everybody* - (COMPLETED) ✔
 
 > Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9b6f62c-fd05-4319-8116-aabe008ff4bb]
-  - Practice From []
+  - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/%20If%20Else%20and%20Loops%20.ipynb]
   
 **COURSE-2**  
 
