@@ -842,4 +842,4 @@ The threshold for considering any room as a factory has also been raised from 10
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Salutary lesson: On the Vodafone case.
