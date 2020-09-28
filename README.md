@@ -832,6 +832,9 @@ The threshold for considering any room as a factory has also been raised from 10
 
 *DESIGN Thinking for Innovation* - (COMPLETED) ✔
 > Reading a book **THE DESIGN OF EVERYDAY THINKING**
-  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
 
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
 
