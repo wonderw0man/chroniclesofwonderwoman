@@ -812,6 +812,11 @@ The joint press release makes no mention of restoring the status quo ante from A
 
 ***THE HINDU EDITORIALS*** 🧐
 > Code debate: On new labour Bills.
+The three codes aimed at consolidating various labor laws and initiating reforms fall into this category. The codes were adopted in both chambers after limited debate and in the absence of the opposition. The Industrial Relations Code, the Social Security Code and the Code of Safety, Health and Working Conditions at Work, 2020, are an updated version of the respective codes of 2019, which have been reviewed by a standing committee. The root of the idea of ​​consolidated labor codes dates back to the June 2002 report of the Second National Labor Commission.
+
+The broad vision has been to give a boost to economic activity without harming the interests of workers. Whether this is adequately reflected in the new provisions will be tested by the experience of the administration of the codes. A positive feature is that the Social Security Code promises the creation of social security funds for non-union workers, as well as for stage and platform workers, and also states that their welfare would be taken care of. by the National Social Security Council. A contentious article allows the competent government to exempt any new factory from all the provisions of the Code on health, safety and working conditions.
+
+The threshold for considering any room as a factory has also been raised from 10 to 20 workers without the use of electricity and from 20 to 40 with electricity. It is significant that almost all the major unions oppose the new codes. There are many reasons to fear that granting wide discretion to central and state governments may not be in the interests of workers.
 
 
 
