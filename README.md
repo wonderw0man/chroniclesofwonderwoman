@@ -821,6 +821,13 @@ The threshold for considering any room as a factory has also been raised from 10
 ---
 ***28th September, 2020***
 
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3fee248-84ba-408d-a15e-aabe0060e083]
+  - Practice From [http://localhost:8888/tree/ds]
+  
 
 
 
