@@ -828,7 +828,10 @@ The threshold for considering any room as a factory has also been raised from 10
 > Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d3fee248-84ba-408d-a15e-aabe0060e083]
   - Practice From [http://localhost:8888/tree/ds]
   
+**COURSE-2**  
 
-
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS
 
 
