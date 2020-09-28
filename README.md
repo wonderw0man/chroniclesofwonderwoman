@@ -838,3 +838,8 @@ The threshold for considering any room as a factory has also been raised from 10
 **COURSE-3**  
 *CS50's Introduction to Computer Science* - (On Going...)
 
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
