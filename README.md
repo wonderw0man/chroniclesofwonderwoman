@@ -819,7 +819,7 @@ The broad vision has been to give a boost to economic activity without harming t
 The threshold for considering any room as a factory has also been raised from 10 to 20 workers without the use of electricity and from 20 to 40 with electricity. It is significant that almost all the major unions oppose the new codes. There are many reasons to fear that granting wide discretion to central and state governments may not be in the interests of workers.
 
 ---
-***27th September, 2020***
+***28th September, 2020***
 
 
 
