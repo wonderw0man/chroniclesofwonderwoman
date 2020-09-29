@@ -854,21 +854,3 @@ Given that the share purchase transaction took place outside India between two o
  
  *PYTHON for Everybody* - (COMPLETED) ✔
 
-> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9b6f62c-fd05-4319-8116-aabe008ff4bb]
-  - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/%20If%20Else%20and%20Loops%20.ipynb]
-  
-**COURSE-2**  
-
-*DESIGN Thinking for Innovation* - (COMPLETED) ✔
-> Reading a book **THE DESIGN OF EVERYDAY THINKING**
-  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
-
-
-**COURSE-3**  
-*CS50's Introduction to Computer Science* - (On Going...)
-
----
-### SUMMARY
-
-***THE HINDU EDITORIALS*** 🧐
-> 
