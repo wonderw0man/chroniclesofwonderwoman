@@ -867,3 +867,10 @@ Given that the share purchase transaction took place outside India between two o
 
 **COURSE-3**  
 *CS50's Introduction to Computer Science* - (On Going...)
+
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
