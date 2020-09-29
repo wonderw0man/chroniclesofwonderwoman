@@ -858,3 +858,10 @@ Given that the share purchase transaction took place outside India between two o
   - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/%20If%20Else%20and%20Loops%20.ipynb]
   
 
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
+
