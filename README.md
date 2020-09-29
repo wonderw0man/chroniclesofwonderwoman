@@ -873,4 +873,4 @@ Given that the share purchase transaction took place outside India between two o
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Making amends: On India's appeal to Sri Lanka to address Tamil aspirations.
