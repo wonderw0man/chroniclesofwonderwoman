@@ -846,3 +846,29 @@ The threshold for considering any room as a factory has also been raised from 10
 Vodafone Group Plc won the next round of its thirteen-year battle with the Indian tax authorities. On Friday, the International Arbitration Tribunal ruled that the Indian government's efforts to demand a tax of more than 20,000 rupees from Vodafone through retrospective legislation were clearly at odds with the protection of "fair and equal treatment" provided for in Article 4 of the India-Netherlands Bilateral Investment Treaty. The decision, which defended the position of a British multinational company, should put an end to India's lengthy and often perverted efforts to establish what was a very controversial claim at the outset.
 
 Given that the share purchase transaction took place outside India between two overseas entities, Vodafone emphasized from the outset that it was not liable for any tax related to this transaction. Following the failure of the Bombay Supreme Court, Vodafone presented its position to the Supreme Court, which ruled in its favor in 2012. Add to this the considerable amount of money it owes to the government in terms of adjusted gross revenues and the future. industry is understandably Vodafone's vigilance to devote more capital to the Indian company. Any failure to learn from this loss should only weaken the confidence of foreign investors in India's commitment to international treaties and the rule of law.
+
+
+***28th September, 2020***
+
+**COURSE-1** 
+ 
+ *PYTHON for Everybody* - (COMPLETED) ✔
+
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9b6f62c-fd05-4319-8116-aabe008ff4bb]
+  - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/%20If%20Else%20and%20Loops%20.ipynb]
+  
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
