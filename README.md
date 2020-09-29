@@ -848,7 +848,7 @@ Vodafone Group Plc won the next round of its thirteen-year battle with the India
 Given that the share purchase transaction took place outside India between two overseas entities, Vodafone emphasized from the outset that it was not liable for any tax related to this transaction. Following the failure of the Bombay Supreme Court, Vodafone presented its position to the Supreme Court, which ruled in its favor in 2012. Add to this the considerable amount of money it owes to the government in terms of adjusted gross revenues and the future. industry is understandably Vodafone's vigilance to devote more capital to the Indian company. Any failure to learn from this loss should only weaken the confidence of foreign investors in India's commitment to international treaties and the rule of law.
 
 
-***28th September, 2020***
+***29th September, 2020***
 
 **COURSE-1** 
  
