@@ -883,7 +883,7 @@ The joint statement made by Sri Lanka and India following the virtual summit bet
 
  *PYTHON for Everybody* - (COMPLETED) ✔
  
-> Studying From []
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a25be602-5b1c-47b0-b07b-aabf00506eaa]
   - Practice From [http://localhost:8888/notebooks/ds/Day3%20-%20Questions.ipynb] 
 
 **COURSE-2**  
