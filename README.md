@@ -880,4 +880,8 @@ The joint statement made by Sri Lanka and India following the virtual summit bet
 ***30th September, 2020***
 
 **COURSE-1** 
+
+ *PYTHON for Everybody* - (COMPLETED) ✔
+ 
+
  
