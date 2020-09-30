@@ -895,3 +895,9 @@ The joint statement made by Sri Lanka and India following the virtual summit bet
 
 **COURSE-3**  
 *CS50's Introduction to Computer Science* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
