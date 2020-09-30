@@ -884,7 +884,7 @@ The joint statement made by Sri Lanka and India following the virtual summit bet
  *PYTHON for Everybody* - (COMPLETED) ✔
  
 > Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9b6f62c-fd05-4319-8116-aabe008ff4bb]
-  - Practice From [http://localhost:8888/notebooks/Desktop/Python_Riddhi/%20If%20Else%20and%20Loops%20.ipynb] 
+  - Practice From [] 
 
 **COURSE-2**  
 
