@@ -874,3 +874,4 @@ Given that the share purchase transaction took place outside India between two o
 
 ***THE HINDU EDITORIALS*** 🧐
 > Making amends: On India's appeal to Sri Lanka to address Tamil aspirations.
+The joint statement made by Sri Lanka and India following the virtual summit between Prime Minister Narendra Modi and his counterpart Mahinda Rajapaksa on September 26 not only echoed India's declared policy of "equality, justice, peace and respect within a unified Sri Lanka". He spoke openly of the need for the Tamils to further the reconciliation process only through the implementation of the 13th Amendment of the Sri Lankan Constitution. Rajapaksa's later published office did not refer to the 13th Amendment, which stipulates power sharing with states based on the 1987 Indo-Sri Lanka Agreement. India's interest in this is undoubtedly the 13th Amendment, Sri Lanka, can heed the calls for the state council system to reclaim itself.
