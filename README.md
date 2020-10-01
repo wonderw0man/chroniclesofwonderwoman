@@ -901,3 +901,9 @@ The joint statement made by Sri Lanka and India following the virtual summit bet
 
 ***THE HINDU EDITORIALS*** 🧐
 > Minsk on the brink: On Belarus political crisis.
+A strong man who, despite growing challenges, has tried to stay in power and a stubborn opposition determined to continue the protests despite police intervention, the political crisis in Belarus seems to have entered a dangerous stalemate. In the face of the toughest political crisis of his career, President Alexander Lukashenko shows no signs of compromise for a peaceful settlement of the crisis and a smooth transition of power. Earlier this month, he was secretly sworn in as his security police continued to crack down on the opposition. Svetlana Tikhanovskaya, the main opposition leader and challenger Lukashenko in the August 9 election, is in voluntary exile in neighboring Lithuania.
+
+Maria Kolesnikova, another key figure in the opposition, is in custody. Lukashenko, who has been in power since 1994, won the presidential election with 80% of the vote, but the opposition says the vote has been rigged. they shed their weight for the opposition, while the annoyed Mr. Lukashenko turned to his most important ally, Russia's Vladimir Putin. Lukashenko has expressed a desire to withdraw Belarus from Moscow's orbit and strengthen economic and political ties with the West.
+
+Lukashenko's plan is to continue to maintain power at all costs, which could call for international sanctions that would cause confusion in his economy. Lukashenko would find it difficult to gain legitimacy and stabilize his government. Lukashenko, sir.
+
