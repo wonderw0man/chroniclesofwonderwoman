@@ -966,4 +966,4 @@ This period was marked by mass mobilization, the holding of regiments to collect
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> Justice in ruins: On Babri Masjid demolition case verdict.
+> Brawling in Cleveland: On Trump-Biden debate.
