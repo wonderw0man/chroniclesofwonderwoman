@@ -931,3 +931,29 @@ Lukashenko's plan is to continue to maintain power at all costs, which could cal
 
 ***THE HINDU EDITORIALS*** 🧐
 > Justice in ruins: On Babri Masjid demolition case verdict.
+
+
+***2nd October, 2020***
+
+**COURSE-1** 
+
+ *PYTHON for Everybody* - (COMPLETED) ✔
+ 
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a25be602-5b1c-47b0-b07b-aabf00506eaa]
+  - Practice From [http://localhost:8888/notebooks/ds/Day3%20-%20Questions.ipynb] 
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+ 
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> Justice in ruins: On Babri Masjid demolition case verdict.
