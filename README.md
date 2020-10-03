@@ -931,6 +931,16 @@ Lukashenko's plan is to continue to maintain power at all costs, which could cal
 
 ***THE HINDU EDITORIALS*** 🧐
 > Justice in ruins: On Babri Masjid demolition case verdict.
+Even when the Supreme Court handed over the empty space to those who wanted the mosque to be lowered to build a temple of Ram, recognizing the destruction as "a terrible violation of the rule of law" gave rise to hope that justice would end. He will be served with the punishment of those who mobilize the vandals. Throwing the Supreme Court's observations on the demolition to the winds, the court actually acquitted anyone accused of conspiracy to demolish the building and granted judicial legitimacy to the 'Ram Janmabhoomi movement'. The court found that the demolition was not pre-planned, that day more than a hundred thousand volunteers entered Ayodhya armed with crowbars, shovels, anchors and ropes, flying in front of all the tools needed to demolish a solid structure. clean the site.
+
+Modified audio and video evidence, and even the possibility of rejections in recordings, will not undo the cumulative impact of logistics and financial preparation as well as social mobilization. This shows that the purpose of the mobilization exemplified by rath yatra is always to violently change the status quo. The Manmohan Singh Liberhan Commission had laid out the whole conspiracy in its damned report, but unfortunately, an investigation under the Investigation Commission Act has no binding value, whereas only the evidence added at the trial is significant. Of course, it is the CBI's responsibility to prove the conspiracy element, the details of the forward mobilization, the "meeting of minds" necessary to prove a conspiracy and its broad limits.
+
+It's no surprise that the agency failed. Given the main events by the two FIRs, the United States government did not initially notify both of them when setting the courts for the trial. The Allahabad Supreme Court overturned the false notification and the State government's failure to correct the irregularity led to separate trials in Lucknow and Rae Bareilly. Instead of appealing to the State's refusal to treat a technical defect, the CBI filed an additional accusation form after skipping the 'conspiracy' charge.
+
+The Supreme Court later said that this derailed the joint case and led to separate trials in two places. In 2017, the Supreme Court revitalized the conspiracy allegation, prompting the court to continue the daily trial, and reminded the institution sternly that this was due to its failure and that it was a crime that shook the secular fabric of the State government. The Constitution had not seen justice for 25 years. Whether a politically disrupted agency can successfully prosecute such a sensitive case is a controversial question. Anyone who has gone through this embarrassing period in India's political history knows that destruction is only the culmination of a vengeful movement.
+
+This period was marked by mass mobilization, the holding of regiments to collect 'bricks' to build a temple, and an attempt to raid the area in 1990, and the result was bloodshed.
+
 
 
 ***2nd October, 2020***
