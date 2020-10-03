@@ -939,7 +939,7 @@ Lukashenko's plan is to continue to maintain power at all costs, which could cal
 
  *PYTHON for Everybody* - (COMPLETED) ✔
  
-> Studying From []
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9223e922-ab6c-4270-8d8f-aabf00ba65cc]
   - Practice From [http://localhost:8888/notebooks/ds/Day3%20-%20Questions.ipynb] 
 
 **COURSE-2**  
