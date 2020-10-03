@@ -966,3 +966,6 @@ This period was marked by mass mobilization, the holding of regiments to collect
 
 ***THE HINDU EDITORIALS*** 🧐
 > Brawling in Cleveland: On Trump-Biden debate.
+Biden of his late son, Beau, to discover a vector of proven lies about his other son Biden, Hunter, and his business dealings in Russia and Ukraine. Biden barely hides himself in glory when it comes to Mr. Biden's feelings in this context, as Mr. Biden will keep himself to a higher standard. One thing the verbal quarrel has made clear is that the two leaders are likely to come up with completely different policy visions that, in a sense, are simple to choose between on day. November 3, Election Day. For every policy that has devastating consequences for the American middle class, whether in healthcare and response to COVID-19, immigration, job creation, clean energy, or women's fertility female,
+
+Biden will lose.
