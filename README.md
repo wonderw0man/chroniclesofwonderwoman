@@ -943,7 +943,7 @@ This period was marked by mass mobilization, the holding of regiments to collect
 
 
 
-***2nd October, 2020***
+***3rd October, 2020***
 
 **COURSE-1** 
 
