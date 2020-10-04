@@ -969,3 +969,29 @@ This period was marked by mass mobilization, the holding of regiments to collect
 Biden of his late son, Beau, to discover a vector of proven lies about his other son Biden, Hunter, and his business dealings in Russia and Ukraine. Biden barely hides himself in glory when it comes to Mr. Biden's feelings in this context, as Mr. Biden will keep himself to a higher standard. One thing the verbal quarrel has made clear is that the two leaders are likely to come up with completely different policy visions that, in a sense, are simple to choose between on day. November 3, Election Day. For every policy that has devastating consequences for the American middle class, whether in healthcare and response to COVID-19, immigration, job creation, clean energy, or women's fertility female,
 
 Biden will lose.
+
+
+***3rd October, 2020***
+
+**COURSE-1** 
+
+ *PYTHON for Everybody* - (COMPLETED) ✔
+ 
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9223e922-ab6c-4270-8d8f-aabf00ba65cc]
+  - Practice From [http://localhost:8888/notebooks/ds/Day4%20-%20Questions.ipynb] 
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+ 
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
