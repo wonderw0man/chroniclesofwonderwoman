@@ -942,7 +942,7 @@ The Supreme Court later said that this derailed the joint case and led to separa
 This period was marked by mass mobilization, the holding of regiments to collect 'bricks' to build a temple, and an attempt to raid the area in 1990, and the result was bloodshed.
 
 
-***3rd October, 2020***
+***4th October, 2020***
 
 **COURSE-1** 
 
