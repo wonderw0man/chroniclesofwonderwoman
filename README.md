@@ -995,3 +995,7 @@ Biden will lose.
 
 ***THE HINDU EDITORIALS*** 🧐
 > Pathways to diversity: On UN Biodiversity Summit.
+The United Nations biodiversity summit was held on September 30 amid a global crisis caused by a new type of coronavirus believed to have been transmitted to humans from an animal reservoir. In New York, the member states of the Convention on Biological Diversity noted the link between biodiversity loss and the spread of animal pathogens, calling for an end to industrial and commercial activities. trade is destructive. Among Aichi's targets that have been reduced in this direction are those of reform or phasing out subsidies that erode biodiversity, resource use steps within the safe ecological limits, Industrial fishing interception kills threatened species and vulnerable ecosystems, and ends pollution, including the development of plastic waste.
+
+There is little concern for indigenous communities that have nurtured biodiversity and no effort to make them strong partners in improving the health of forests and buffer zones.
+
