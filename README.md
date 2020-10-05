@@ -942,7 +942,7 @@ The Supreme Court later said that this derailed the joint case and led to separa
 This period was marked by mass mobilization, the holding of regiments to collect 'bricks' to build a temple, and an attempt to raid the area in 1990, and the result was bloodshed.
 
 
-***4th October, 2020***
+***3rd October, 2020***
 
 **COURSE-1** 
 
@@ -971,7 +971,7 @@ Biden of his late son, Beau, to discover a vector of proven lies about his other
 Biden will lose.
 
 
-***3rd October, 2020***
+***4th October, 2020***
 
 **COURSE-1** 
 
@@ -999,3 +999,111 @@ The United Nations biodiversity summit was held on September 30 amid a global cr
 
 There is little concern for indigenous communities that have nurtured biodiversity and no effort to make them strong partners in improving the health of forests and buffer zones.
 
+***4th October, 2020***
+
+**COURSE-1** 
+
+ *PYTHON for Everybody* - (COMPLETED) ✔
+ 
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9223e922-ab6c-4270-8d8f-aabf00ba65cc]
+  - Practice From [http://localhost:8888/notebooks/ds/Day4%20-%20Questions.ipynb] 
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+ 
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> Pathways to diversity: On UN Biodiversity Summit.
+The United Nations biodiversity summit was held on September 30 amid a global crisis caused by a new type of coronavirus believed to have been transmitted to humans from an animal reservoir. In New York, the member states of the Convention on Biological Diversity noted the link between biodiversity loss and the spread of animal pathogens, calling for an end to industrial and commercial activities. trade is destructive. Among Aichi's targets that have been reduced in this direction are those of reform or phasing out subsidies that erode biodiversity, resource use steps within the safe ecological limits, Industrial fishing interception kills threatened species and vulnerable ecosystems, and ends pollution, including the development of plastic waste.
+
+There is little concern for indigenous communities that have nurtured biodiversity and no effort to make them strong partners in improving the health of forests and buffer zones.
+
+***4th October, 2020***
+
+**COURSE-1** 
+
+ *PYTHON for Everybody* - (COMPLETED) ✔
+ 
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9223e922-ab6c-4270-8d8f-aabf00ba65cc]
+  - Practice From [http://localhost:8888/notebooks/ds/Day4%20-%20Questions.ipynb] 
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+ 
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> Pathways to diversity: On UN Biodiversity Summit.
+The United Nations biodiversity summit was held on September 30 amid a global crisis caused by a new type of coronavirus believed to have been transmitted to humans from an animal reservoir. In New York, the member states of the Convention on Biological Diversity noted the link between biodiversity loss and the spread of animal pathogens, calling for an end to industrial and commercial activities. trade is destructive. Among Aichi's targets that have been reduced in this direction are those of reform or phasing out subsidies that erode biodiversity, resource use steps within the safe ecological limits, Industrial fishing interception kills threatened species and vulnerable ecosystems, and ends pollution, including the development of plastic waste.
+
+There is little concern for indigenous communities that have nurtured biodiversity and no effort to make them strong partners in improving the health of forests and buffer zones.
+
+***4th October, 2020***
+
+**COURSE-1** 
+
+ *PYTHON for Everybody* - (COMPLETED) ✔
+ 
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9223e922-ab6c-4270-8d8f-aabf00ba65cc]
+  - Practice From [http://localhost:8888/notebooks/ds/Day4%20-%20Questions.ipynb] 
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+ 
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> Pathways to diversity: On UN Biodiversity Summit.
+The United Nations biodiversity summit was held on September 30 amid a global crisis caused by a new type of coronavirus believed to have been transmitted to humans from an animal reservoir. In New York, the member states of the Convention on Biological Diversity noted the link between biodiversity loss and the spread of animal pathogens, calling for an end to industrial and commercial activities. trade is destructive. Among Aichi's targets that have been reduced in this direction are those of reform or phasing out subsidies that erode biodiversity, resource use steps within the safe ecological limits, Industrial fishing interception kills threatened species and vulnerable ecosystems, and ends pollution, including the development of plastic waste.
+
+There is little concern for indigenous communities that have nurtured biodiversity and no effort to make them strong partners in improving the health of forests and buffer zones.
+
+***4th October, 2020***
+
+**COURSE-1** 
+
+ *PYTHON for Everybody* - (COMPLETED) ✔
+ 
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9223e922-ab6c-4270-8d8f-aabf00ba65cc]
+  - Practice From [http://localhost:8888/notebooks/ds/Day4%20-%20Questions.ipynb] 
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+ 
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+>
