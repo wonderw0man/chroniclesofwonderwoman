@@ -1107,3 +1107,28 @@ There is little concern for indigenous communities that have nurtured biodiversi
 
 ***THE HINDU EDITORIALS*** 🧐
 > Until vaccine: On Unlock 5.
+
+***5th October, 2020***
+
+**COURSE-1** 
+
+ *PYTHON for Everybody* - (COMPLETED) ✔
+ 
+> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9223e922-ab6c-4270-8d8f-aabf00ba65cc]
+  - Practice From [http://localhost:8888/notebooks/ds/Day4%20-%20Questions.ipynb] 
+
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+ 
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> Until vaccine: On Unlock 5.
