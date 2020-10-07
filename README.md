@@ -1107,6 +1107,10 @@ There is little concern for indigenous communities that have nurtured biodiversi
 
 ***THE HINDU EDITORIALS*** 🧐
 > Until vaccine: On Unlock 5.
+India's fifth round of unlocking regulations for October, allowing further expansion of public activity, primarily in education, entertainment and business conferences, comes at a time of transmission of COVID-19 is stable in many cities. Nationally, however, the new infections added every day, to around 60,000, have been declining in recent days, according to data from the Johns Hopkins Coronavirus Resource Center. The decision to allow states to consider reopening schools and coaching centers after Oct. 15, to students who wish to attend electively, will prove difficult, given new research data based on data from Tamil Nadu and the Andhra Pradesh indicating a high prevalence of infection among children who were contacts of virus cases in the same age group. Even in the face of a deadly pandemic,
+
+During the monsoon and winter months, and during the holiday season, polite and persuasive application would be essential to reduce infection rates. Among the easing measures for the October unlocking phase is the authorization to open cinemas and multiplexes to 50% of their capacity, but the risk surrounding confined spaces and the transmission of asymptomatic individuals is real. Unfortunately, although it has focused on the massive cure rates of the infection, it has failed to standardize testing and reporting methods between states, and to publish detailed data on the types of tests performed in each state, anonymized patient history, post-recovery status for complications and mortality.
+
 
 ***6th October, 2020***
 
