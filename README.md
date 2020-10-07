@@ -1134,7 +1134,8 @@ During the monsoon and winter months, and during the holiday season, polite and 
 
 ***THE HINDU EDITORIALS*** 🧐
 > Vanquishing viruses: On Nobel prize for medicine.
-***6th October, 2020***
+
+***7th October, 2020***
 
 **COURSE-1** 
 
