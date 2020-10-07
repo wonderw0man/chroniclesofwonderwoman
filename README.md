@@ -1129,4 +1129,4 @@ There is little concern for indigenous communities that have nurtured biodiversi
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Vanquishing viruses: On Nobel prize for medicine.
