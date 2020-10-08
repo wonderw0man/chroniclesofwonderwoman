@@ -1157,7 +1157,7 @@ During the monsoon and winter months, and during the holiday season, polite and 
 
 ***THE HINDU EDITORIALS*** 🧐
 > 
-***7th October, 2020***
+***8th October, 2020***
 
 **COURSE-1** 
 
