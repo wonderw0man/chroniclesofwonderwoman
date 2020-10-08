@@ -1156,7 +1156,8 @@ During the monsoon and winter months, and during the holiday season, polite and 
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Four for one: On Quad, India and the U.S.
+
 ***8th October, 2020***
 
 **COURSE-1** 
@@ -1178,4 +1179,4 @@ During the monsoon and winter months, and during the holiday season, polite and 
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> The hole in the middle: On Physics Nobel.
