@@ -1197,4 +1197,11 @@ During the monsoon and winter months, and during the holiday season, polite and 
 **COURSE-3**  
 *CS50's Introduction to Computer Science* - (On Going...)
 
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
+
+
 
