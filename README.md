@@ -1182,7 +1182,7 @@ During the monsoon and winter months, and during the holiday season, polite and 
 > The hole in the middle: On Physics Nobel.
 
 
-***8th October, 2020***
+***9th October, 2020***
 
 **COURSE-1** 
 
