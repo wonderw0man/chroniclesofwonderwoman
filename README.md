@@ -1187,7 +1187,7 @@ During the monsoon and winter months, and during the holiday season, polite and 
 **COURSE-1** 
 
  *PYTHON for Everybody* - (COMPLETED) ✔
-  - Practice From [http://localhost:8888/notebooks/ds/Day4%20-%20Questions.ipynb] 
+  - Practice From [] 
 **COURSE-2**  
 
 *DESIGN Thinking for Innovation* - (COMPLETED) ✔
