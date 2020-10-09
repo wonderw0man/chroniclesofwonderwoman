@@ -1189,18 +1189,3 @@ During the monsoon and winter months, and during the holiday season, polite and 
  *PYTHON for Everybody* - (COMPLETED) ✔
   - Practice From [http://localhost:8888/notebooks/ds/Day4%20-%20Questions.ipynb] 
 
-**COURSE-2**  
-
-*DESIGN Thinking for Innovation* - (COMPLETED) ✔
-> Reading a book **THE DESIGN OF EVERYDAY THINKING**
-  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
- 
-
-**COURSE-3**  
-*CS50's Introduction to Computer Science* - (On Going...)
-
----
-### SUMMARY
-
-***THE HINDU EDITORIALS*** 🧐
-> 
