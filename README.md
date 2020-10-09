@@ -1181,6 +1181,11 @@ During the monsoon and winter months, and during the holiday season, polite and 
 
 ***THE HINDU EDITORIALS*** 🧐
 > The hole in the middle: On Physics Nobel.
+Roger Penrose, now in Oxford and receiving half the prize, skillfully used mathematics in the 1960s to theorize under what conditions black holes should form. This was a time when the reality of black holes as a solution to Albert Einstein's General Theory of Relativity field equations was not accepted by many leading physicists. A few months after Einstein proposed the General Theory of Relativity in 1915, Karl Schwarzschild published a solution to field equations that exhibit singularities, or points where physical quantities grow or disappear infinitely. In this climate, observational clues of supermassive black holes came from the discovery of what were originally supermassive and called quasars at the center of galaxies.
+
+The other half of the award is Reinhard Genzel in the Max Planck Institute for Extraterrestrial Physics, Garching, Germany, and Prof. It was jointly given to Ghez. Sagittarius A * lies at the center of the Milky Way, about 26,000 light years away. Around this, all the stars orbiting the galaxy. In the 1990s, when telescopes and equipment were developed that could overcome this distance, Prof.
+
+Genzel and Prof. Ghez formed independent groups to explore this area.
 
 
 ***9th October, 2020***
