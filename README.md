@@ -1157,6 +1157,9 @@ During the monsoon and winter months, and during the holiday season, polite and 
 
 ***THE HINDU EDITORIALS*** 🧐
 > Four for one: On Quad, India and the U.S.
+With the second meeting of the Australia-India-Japan-US Quadrilateral Foreign Ministers' Strategic Dialogue in Tokyo on Tuesday, the Quad entered a decisive phase. Breaking with previous secrecy, they made public much of their deliberations, including the decision to make the FM meeting an annual event, to cooperate in the fight against the pandemic and in the construction of infrastructure, connectivity and a Region supply chain initiative. As host, Japanese Prime Minister Yoshihide Suga dispelled any thoughts that he might not be as proactive as his predecessor, Shinzō Abe, who originally conceived the idea in 2007. Australian Foreign Minister , Marise Payne, was present despite the two-week quarantine she is facing. return, and the Indian Minister of External Affairs, S.
+
+What he seemed to be proposing was not simply a coalition of democracies committed to a free and open Indo-Pacific, as the informal Quad charter has so far stated. seems keen to transform the quadrangle into a full-fledged military alliance of countries facing tensions with China. India has a lot to gain strategically and in terms of quadrilateral dialogue capacity building, but little in the sense that it is being led by Washington on an important initiative for the region in which India is an equal stakeholder and important.
 
 
 ***8th October, 2020***
