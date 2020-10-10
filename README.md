@@ -1212,7 +1212,7 @@ Genzel and Prof. Ghez formed independent groups to explore this area.
 ***THE HINDU EDITORIALS*** 🧐
 > Scissoring the DNA: On Chemistry Nobel.
 
-***9th October, 2020***
+***10th October, 2020***
 
 **COURSE-1** 
 
