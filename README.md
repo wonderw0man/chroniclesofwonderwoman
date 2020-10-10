@@ -1211,6 +1211,10 @@ Genzel and Prof. Ghez formed independent groups to explore this area.
 
 ***THE HINDU EDITORIALS*** 🧐
 > Scissoring the DNA: On Chemistry Nobel.
+Doudna recreated the bacteria's genetic scissors in a test tube and simplified the tool to make it easier to program the system to precisely cut specific areas of interest in any DNA, including humans. Gene editing technology has opened up a wide window of opportunity. Over the past six years, the tool has enabled scientists to organize human DNA in a dish, and early-stage clinical trials are attempting to use the tool to treat several diseases, including inherited disorders / diseases, and some types of cancer. Although in 2016 China launched the first human clinical trial to treat an aggressive lung cancer by introducing cells containing genes that have been edited using CRISPR-Cas9, the use of the tool has so far been limited to treating genetic diseases in animal models.
+
+Last year, a Chinese researcher used this tool to alter a particular gene in the embryo to immunize babies against HIV infection, which sparked international outrage. Although no guidelines have been prepared so far, there is general consensus in the scientific and ethical community that the gene editing technique should not be used clinically in embryos. The gene editing tool has indeed "brought the life sciences into a new era."
+
 
 ***10th October, 2020***
 
