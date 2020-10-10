@@ -907,6 +907,9 @@ Maria Kolesnikova, another key figure in the opposition, is in custody. Lukashen
 
 Lukashenko's plan is to continue to maintain power at all costs, which could call for international sanctions that would cause confusion in his economy. Lukashenko would find it difficult to gain legitimacy and stabilize his government. Lukashenko, sir.
 
+
+**#OCTOBER**
+
 ***2nd October, 2020***
 
 **COURSE-1** 
@@ -999,89 +1002,6 @@ The United Nations biodiversity summit was held on September 30 amid a global cr
 
 There is little concern for indigenous communities that have nurtured biodiversity and no effort to make them strong partners in improving the health of forests and buffer zones.
 
-***4th October, 2020***
-
-**COURSE-1** 
-
- *PYTHON for Everybody* - (COMPLETED) ✔
- 
-> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9223e922-ab6c-4270-8d8f-aabf00ba65cc]
-  - Practice From [http://localhost:8888/notebooks/ds/Day4%20-%20Questions.ipynb] 
-
-**COURSE-2**  
-
-*DESIGN Thinking for Innovation* - (COMPLETED) ✔
-> Reading a book **THE DESIGN OF EVERYDAY THINKING**
-  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
- 
-
-**COURSE-3**  
-*CS50's Introduction to Computer Science* - (On Going...)
-
----
-### SUMMARY
-
-***THE HINDU EDITORIALS*** 🧐
-> Pathways to diversity: On UN Biodiversity Summit.
-The United Nations biodiversity summit was held on September 30 amid a global crisis caused by a new type of coronavirus believed to have been transmitted to humans from an animal reservoir. In New York, the member states of the Convention on Biological Diversity noted the link between biodiversity loss and the spread of animal pathogens, calling for an end to industrial and commercial activities. trade is destructive. Among Aichi's targets that have been reduced in this direction are those of reform or phasing out subsidies that erode biodiversity, resource use steps within the safe ecological limits, Industrial fishing interception kills threatened species and vulnerable ecosystems, and ends pollution, including the development of plastic waste.
-
-There is little concern for indigenous communities that have nurtured biodiversity and no effort to make them strong partners in improving the health of forests and buffer zones.
-
-***4th October, 2020***
-
-**COURSE-1** 
-
- *PYTHON for Everybody* - (COMPLETED) ✔
- 
-> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9223e922-ab6c-4270-8d8f-aabf00ba65cc]
-  - Practice From [http://localhost:8888/notebooks/ds/Day4%20-%20Questions.ipynb] 
-
-**COURSE-2**  
-
-*DESIGN Thinking for Innovation* - (COMPLETED) ✔
-> Reading a book **THE DESIGN OF EVERYDAY THINKING**
-  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
- 
-
-**COURSE-3**  
-*CS50's Introduction to Computer Science* - (On Going...)
-
----
-### SUMMARY
-
-***THE HINDU EDITORIALS*** 🧐
-> Pathways to diversity: On UN Biodiversity Summit.
-The United Nations biodiversity summit was held on September 30 amid a global crisis caused by a new type of coronavirus believed to have been transmitted to humans from an animal reservoir. In New York, the member states of the Convention on Biological Diversity noted the link between biodiversity loss and the spread of animal pathogens, calling for an end to industrial and commercial activities. trade is destructive. Among Aichi's targets that have been reduced in this direction are those of reform or phasing out subsidies that erode biodiversity, resource use steps within the safe ecological limits, Industrial fishing interception kills threatened species and vulnerable ecosystems, and ends pollution, including the development of plastic waste.
-
-There is little concern for indigenous communities that have nurtured biodiversity and no effort to make them strong partners in improving the health of forests and buffer zones.
-
-***4th October, 2020***
-
-**COURSE-1** 
-
- *PYTHON for Everybody* - (COMPLETED) ✔
- 
-> Studying From [https://greatlearning.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9223e922-ab6c-4270-8d8f-aabf00ba65cc]
-  - Practice From [http://localhost:8888/notebooks/ds/Day4%20-%20Questions.ipynb] 
-
-**COURSE-2**  
-
-*DESIGN Thinking for Innovation* - (COMPLETED) ✔
-> Reading a book **THE DESIGN OF EVERYDAY THINKING**
-  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
- 
-
-**COURSE-3**  
-*CS50's Introduction to Computer Science* - (On Going...)
-
----
-### SUMMARY
-
-***THE HINDU EDITORIALS*** 🧐
-> Pathways to diversity: On UN Biodiversity Summit.
-The United Nations biodiversity summit was held on September 30 amid a global crisis caused by a new type of coronavirus believed to have been transmitted to humans from an animal reservoir. In New York, the member states of the Convention on Biological Diversity noted the link between biodiversity loss and the spread of animal pathogens, calling for an end to industrial and commercial activities. trade is destructive. Among Aichi's targets that have been reduced in this direction are those of reform or phasing out subsidies that erode biodiversity, resource use steps within the safe ecological limits, Industrial fishing interception kills threatened species and vulnerable ecosystems, and ends pollution, including the development of plastic waste.
-
-There is little concern for indigenous communities that have nurtured biodiversity and no effort to make them strong partners in improving the health of forests and buffer zones.
 
 ***5th October, 2020***
 
@@ -1111,29 +1031,6 @@ India's fifth round of unlocking regulations for October, allowing further expan
 
 During the monsoon and winter months, and during the holiday season, polite and persuasive application would be essential to reduce infection rates. Among the easing measures for the October unlocking phase is the authorization to open cinemas and multiplexes to 50% of their capacity, but the risk surrounding confined spaces and the transmission of asymptomatic individuals is real. Unfortunately, although it has focused on the massive cure rates of the infection, it has failed to standardize testing and reporting methods between states, and to publish detailed data on the types of tests performed in each state, anonymized patient history, post-recovery status for complications and mortality.
 
-
-***6th October, 2020***
-
-**COURSE-1** 
-
- *PYTHON for Everybody* - (COMPLETED) ✔
-  - Practice From [http://localhost:8888/notebooks/ds/Day4%20-%20Questions.ipynb] 
-
-**COURSE-2**  
-
-*DESIGN Thinking for Innovation* - (COMPLETED) ✔
-> Reading a book **THE DESIGN OF EVERYDAY THINKING**
-  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
- 
-
-**COURSE-3**  
-*CS50's Introduction to Computer Science* - (On Going...)
-
----
-### SUMMARY
-
-***THE HINDU EDITORIALS*** 🧐
-> Vanquishing viruses: On Nobel prize for medicine.
 
 ***7th October, 2020***
 
