@@ -908,7 +908,7 @@ Maria Kolesnikova, another key figure in the opposition, is in custody. Lukashen
 Lukashenko's plan is to continue to maintain power at all costs, which could call for international sanctions that would cause confusion in his economy. Lukashenko would find it difficult to gain legitimacy and stabilize his government. Lukashenko, sir.
 
 
-**#OCTOBER**
+# OCTOBER
 
 ***2nd October, 2020***
 
