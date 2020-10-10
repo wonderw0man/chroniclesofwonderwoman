@@ -1219,6 +1219,12 @@ Genzel and Prof. Ghez formed independent groups to explore this area.
  *PYTHON for Everybody* - (COMPLETED) ✔
   - Practice From [http://localhost:8888/notebooks/ds/PRACTICE.ipynb] 
 
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
 
 
 
