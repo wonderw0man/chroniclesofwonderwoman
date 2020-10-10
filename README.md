@@ -1211,6 +1211,10 @@ Genzel and Prof. Ghez formed independent groups to explore this area.
 
 ***THE HINDU EDITORIALS*** 🧐
 > Scissoring the DNA: On Chemistry Nobel.
+Gene editing technology has opened up a huge window of opportunity. Although in 2016, China started the first human clinical trial to treat an aggressive form of lung cancer by introducing cells containing genes modified using CRISPR-Cas9, the tool's use has so far been limited to curing genetic diseases in animal models. Last year, a Chinese researcher used the tool to alter a particular gene in the embryo to make babies immune to HIV infection, which was all the rage internationally. Although no guidelines have been developed to date, there is a general consensus in the scientific and ethical communities that the technique of
+
+The gene editing tool has indeed brought “the life sciences into a new era”.
+
 
 ***10th October, 2020***
 
