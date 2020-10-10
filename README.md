@@ -1233,6 +1233,7 @@ Genzel and Prof. Ghez formed independent groups to explore this area.
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> The right balance: On Shaheen Bagh and the right to protest.
+
 
 
