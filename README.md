@@ -1,6 +1,7 @@
 # DAILY ACTIVITY BLOGS 
 ---
-
+## SEPTEMBER
+---
 ***02nd September, 2020***
 ---
 
