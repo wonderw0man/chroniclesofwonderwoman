@@ -1211,10 +1211,9 @@ Genzel and Prof. Ghez formed independent groups to explore this area.
 
 ***THE HINDU EDITORIALS*** 🧐
 > Scissoring the DNA: On Chemistry Nobel.
-Gene editing technology has opened up a huge window of opportunity. Although in 2016, China started the first human clinical trial to treat an aggressive form of lung cancer by introducing cells containing genes modified using CRISPR-Cas9, the tool's use has so far been limited to curing genetic diseases in animal models. Last year, a Chinese researcher used the tool to alter a particular gene in the embryo to make babies immune to HIV infection, which was all the rage internationally. Although no guidelines have been developed to date, there is a general consensus in the scientific and ethical communities that the technique of
+Long after Shaheen Bagh became a symbol of strong democratic resistance to a discriminatory law, the Supreme Court dared to conclude that such an ambiguous blockade of a public road was unacceptable. And that the administration should take action to eliminate the "rape and barriers" that arise during such protests. Protests, by their very nature, are not always based on legitimacy, but rather derive legitimacy from the justification of the underlying cause and the scope of public support. In this case, the Court rightly notes that the administration did not negotiate with the protesters in Shaheen Bagh and did not try to clear the scene.
 
-The gene editing tool has indeed brought “the life sciences into a new era”.
-
+Any finding that a peaceful protest has been going on for too long or is in a place deemed inappropriate to others should not encourage the administration to seek early limits on freedom of assembly. Such judicial certainty can undermine the greater democratic need for public expression of opposition in the most effective way and place.
 
 ***10th October, 2020***
 
