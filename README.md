@@ -1145,7 +1145,8 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 **COURSE-1** 
 
  *PYTHON for Everybody* - (COMPLETED) ✔
-  - Practice From [http://localhost:8888/notebooks/ds/PRACTICE.ipynb] 
+  - Practice on: [http://localhost:8888/notebooks/ds/PRACTICE.ipynb] 
+  - Practice Questions from:
   
   
 **COURSE-2**  
