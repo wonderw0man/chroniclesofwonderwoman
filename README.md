@@ -1140,7 +1140,7 @@ Long after Shaheen Bagh became a symbol of strong democratic resistance to a dis
 
 Any finding that a peaceful protest has been going on for too long or is in a place deemed inappropriate to others should not encourage the administration to seek early limits on freedom of assembly. Such judicial certainty can undermine the greater democratic need for public expression of opposition in the most effective way and place.
 
-***10th October, 2020***
+***11th October, 2020***
 
 **COURSE-1** 
 
