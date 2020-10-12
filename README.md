@@ -1165,7 +1165,7 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 ***THE HINDU EDITORIALS*** 🧐
 > Show of unity: On AIADMK affairs.
 
-***11th October, 2020***
+***12th October, 2020***
 
 **COURSE-1** 
 
