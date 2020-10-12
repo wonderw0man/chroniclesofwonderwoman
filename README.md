@@ -1188,4 +1188,4 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Food for peace: On 2020 Peace Nobel.
