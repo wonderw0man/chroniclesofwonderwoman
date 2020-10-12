@@ -1184,4 +1184,8 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 **COURSE-3**  
 *CS50's Introduction to Computer Science* - (On Going...)
 
+---
+### SUMMARY
 
+***THE HINDU EDITORIALS*** 🧐
+> 
