@@ -1171,7 +1171,7 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 
  *PYTHON for Everybody* - (COMPLETED) ✔
   - Practice on: [http://localhost:8888/notebooks/ds/PRACTICE.ipynb] 
-  - Practice Questions from:[]
+  - Practice Questions from:[https://www.codesdope.com/practice/python-string/]
   
   
 **COURSE-2**  
