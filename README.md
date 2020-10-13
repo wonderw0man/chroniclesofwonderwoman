@@ -1190,7 +1190,7 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 ***THE HINDU EDITORIALS*** 🧐
 > Food for peace: On 2020 Peace Nobel.
 
-***12th October, 2020***
+***13th October, 2020***
 
 **COURSE-1** 
 
