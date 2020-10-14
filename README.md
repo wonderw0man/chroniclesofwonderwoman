@@ -1215,4 +1215,7 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 ***THE HINDU EDITORIALS*** 🧐
 > Feat of clay: On French Open tennis championship 2020.
 
+***13th October, 2020***
+
+**COURSE-1** 
 
