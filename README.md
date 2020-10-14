@@ -1237,5 +1237,5 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> A slim stimulus: On Centre’s move spur demand.
 
