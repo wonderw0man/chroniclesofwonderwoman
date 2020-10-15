@@ -1239,3 +1239,27 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 ***THE HINDU EDITORIALS*** 🧐
 > A slim stimulus: On Centre’s move spur demand.
 
+
+***14th October, 2020***
+
+**COURSE-1** 
+
+ *PYTHON for Everybody* - (COMPLETED) ✔
+  - Practice on: [http://localhost:8888/notebooks/ds/PRACTICE.ipynb] 
+  - Practice Questions from:[https://www.codesdope.com/practice/python-string/]
+  
+  
+**COURSE-2**  
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+>
