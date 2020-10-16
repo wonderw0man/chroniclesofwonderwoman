@@ -1263,7 +1263,7 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 ***THE HINDU EDITORIALS*** 🧐
 > Crisis in Caucasus: On Armenia, Azerbaijan and Nagorno-Karabakh.
   
-***15th October, 2020***
+***16th October, 2020***
 
 **COURSE-1** 
 
