@@ -1285,7 +1285,7 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 ***THE HINDU EDITORIALS*** 🧐
 > Showdown in Thailand: On student protests.
 
-***16th October, 2020***
+***17th October, 2020***
 
 **COURSE-1** 
 
