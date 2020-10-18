@@ -1307,6 +1307,11 @@ Russia, already involved in military conflicts in Syria, Ukraine and Libya, may 
 
 ***THE HINDU EDITORIALS*** 🧐
 > Showdown in Thailand: On student protests.
+The protesters have earned the support of sections of society. The declaration of the emergency decree comes a day after protesters raised the three-finger salute, a symbol of resistance taken from The Hunger Games trilogy, at a royal motorcade. Now, the protesters are openly challenging the powers of King Vajiralongkorn, who ascended the throne in 2016 after the death of his father, Bhumibol Adulyadej. Prayuth, have become symbols of extravagance and oppression for the protesters, who have dismissed the emergency decree, saying the movement has gone past the point of no-return, and in turn setting the stage for a showdown with the police.
+
+In 1976, the police and right-wing thugs massacred protesters in Thammasat University, Bangkok.
+
+
 
 ***17th October, 2020***
 
