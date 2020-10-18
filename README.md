@@ -1222,6 +1222,12 @@ Clearly, without stronger commitment from the big powers, the challenge to feed 
 
 ***THE HINDU EDITORIALS*** 🧐
 > Feat of clay: On French Open tennis championship 2020.
+The 2020 French Open was unlike any previous edition of the Major. The straight sets demolition of World No. 1 Novak Djokovic, his toughest rival, brought the Spaniard level with Roger Federer’s men’s record for Grand Slam titles and has set up a mouth-watering 2021. But Nadal’s preparation for the tournament was far from ideal.
+
+Djokovic’s role in this is central. After the nearly six-hour long Australian Open final defeat to Djokovic in 2012, Nadal spruced up his attacking play. Since the return from the 2015-16 slump, he continuously worked to better his backhand and break out of the losing patterns Djokovic drew him into. While Nadal led Djokovic by just one point in rallies lasting five shots or more , he crushed the Serb 53-25 in those that had four shots or less.
+
+Where Nadal made just nine backhand errors, he drew 26 more from Djokovic’s favoured wing. The Pole felled the tactically astute Sofia Kenin with a ruthless display of power and intelligence to claim her maiden Major without losing a set. The French Open has crowned four straight first-time women’s Grand Slam champions, rewarding styles ranging from all-out attack to nimble-footed craftiness.
+
 
 ***14th October, 2020***
 
