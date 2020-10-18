@@ -1280,6 +1280,11 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 
 ***THE HINDU EDITORIALS*** 🧐
 > Crisis in Caucasus: On Armenia, Azerbaijan and Nagorno-Karabakh.
+In 1988, when the Soviet power was receding, the regional assembly in Nagorno-Karabakh voted to join Armenia, triggering ethnic clashes. After the Soviet disintegration in 1991, Armenia and Azerbaijan went to war over this largely mountainous, forested enclave. By the time a ceasefire was reached in 1994, the rebels, with support from Armenia and Russia, had established their de facto rule and extended their influence to the Armenian border.
+Russia enjoys good economic and defence ties with both Armenia and Azerbaijan. But Armenia, as a CSTO member and host to a Russian military base, has more weight. In a wider conflict, Armenia could trigger Article 4 of the CSTO treaty and ask for Russian help. And if Moscow responds favourably, that would pit Russia against Turkey, a NATO member.
+
+Russia, already involved in military conflicts in Syria, Ukraine and Libya, may not like opening another front. Instead of risking a regional war, Azerbaijan, Armenia and the Karabakh rebels should go back to the ceasefire and open up diplomatic channels.
+
   
 ***16th October, 2020***
 
