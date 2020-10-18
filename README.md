@@ -1193,6 +1193,10 @@ Palaniswami, who has six nominees, all cabinet ministers. Panneerselvam could be
 
 ***THE HINDU EDITORIALS*** 🧐
 > Food for peace: On 2020 Peace Nobel.
+This year’s prize has been awarded to the World Food Programme , of the UN system, for its contribution to combating hunger in conflict and disaster-struck sites. The Norwegian Nobel Committee took note of the WFP’s life-saving role in the year of the pandemic, staving off catastrophes of hunger in Yemen, Congo, Nigeria, South Sudan and Burkina Faso. The Prize is a fitting tribute to the aid workers who brave hazardous conditions to reach starving people in theatres of war, civil strife and natural disasters, moving food on aircraft, trucks and even all-terrain amphibious vehicles. The decision to honour the WFP echoes the advice of another peace laureate from 1949, Lord John Boyd Orr, the first head of the FAO, that peace cannot be built on empty stomachs.
+
+Clearly, without stronger commitment from the big powers, the challenge to feed the millions who suffer acute hunger due to conflict and failed agriculture can never be met. This is a time for the world’s big powers to strengthen the UN system, espousing fraternity, shunning militarism, greening economies and resolving conflicts in the true spirit of the Peace Prize.
+
 
 ***13th October, 2020***
 
