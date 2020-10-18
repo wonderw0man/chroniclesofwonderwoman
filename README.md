@@ -1306,7 +1306,8 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Dealing with a deluge: On Hyderabad floods.
+
 
 ***16th October, 2020***
 
