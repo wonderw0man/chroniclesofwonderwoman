@@ -1337,7 +1337,7 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 > Dealing with a deluge: On Hyderabad floods.
 
 
-***17th October, 2020***
+***18th October, 2020***
 
 **COURSE-1** 
 
