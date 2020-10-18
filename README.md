@@ -1164,6 +1164,10 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 
 ***THE HINDU EDITORIALS*** 🧐
 > Show of unity: On AIADMK affairs.
+By ending the rift over the Chief Ministerial candidate for the 2021 Tamil Nadu Assembly election, the leaders of the ruling AIADMK might have enthused the cadres, and also denied political rivals an opportunity to exploit the situation. In the absence of the party having a mass leader, both Chief Minister Edappadi K. Palaniswami and his deputy in government, O. Panneerselvam, appear to have clearly understood their respective political limitations and made compromises. Panneerselvam, who had held the post of Chief Minister thrice for short tenures, has agreed to let Mr. Palaniswami be the party’s face in the election, perhaps realising that the latter has consolidated his hold among people who matter in the AIADMK. On his part, the Chief Minister shed his reluctance to constitute an 11-member steering committee, a long-pending key demand of Mr. Panneerselvam, to avert any rebellion from him, irrespective of its political impact.
+
+Palaniswami, who has six nominees, all cabinet ministers. Panneerselvam could be put to the test during the distribution of the party ticket to AIADMK aspirants. Electorally, the impact of the ruling party’s latest decisions will depend upon multiple factors including a possible realignment of political forces and actor Rajinikanth launching his proposed party. Besides, a further churning within the AIADMK cannot be ruled out if V. .
+
 
 ***12th October, 2020***
 
