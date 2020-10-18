@@ -1309,7 +1309,7 @@ Any finding that a peaceful protest has been going on for too long or is in a pl
 > Dealing with a deluge: On Hyderabad floods.
 
 
-***16th October, 2020***
+***17th October, 2020***
 
 **COURSE-1** 
 
