@@ -1396,7 +1396,8 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> A tool for thought: On coronavirus pandemic in India.
+ 
 
 
 
