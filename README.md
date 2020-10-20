@@ -30,17 +30,10 @@
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-
-
 > A Golden Moment: On India's win in Chess Olympiad.
-
 ~By~ winning the joint championship with RUSSIA in online chess olympiad held on Sunday ~beacuse~ of the 44th edition had to be postponed till next year due to the pandemic, INDIA proves that it is growing its stature in the world of chess.The victroy was shared because The Indian team management lodged a complaint, and the FIDE proposed its decision for sharing the championship on which Russia  agreed, beacuse the 2nd round of final was affected by a net outage, due to this India’s Nihal Sarin and Divya Deshmukh had lost on time. ~Thus~, there was a fruitful ending to the final. When Armenians raised similar complaint after the loss of game, to India in the first match of the quarter-final. They protested by not playing the second match and withdrew from the competition. But that incident should not take the sheen off India’s triumph. 
  
  ~If~ Viswanathan Anand and Koneru Humpy are among the greatest players the world has ever seen, Nihal and R. Praggnanandhaa could be tomorrow’s stars. In the euphoria surrounding the great Indian victory, some grim facts should not be overlooked. The Indian chess team pulled off a thrilling victory against Poland in the semifinal of the Olympiad when the Arjuna awards were being distributed by President Ram Nath Kovind online on Saturday. Ironically, no chess player has won an Arjuna for seven years. India captain Vidit Gujrathi had said how the team was on its own ahead of the Olympiad with no support from the All India Chess Federation. The chief selector R.B. Ramesh  quit because he was forced to announce two separate teams for the Olympiad. This moment of glory, therefore, is also a time for introspection.
-
-
-
-
 
 ---
 ***03rd September, 2020***
@@ -127,8 +120,6 @@ In July, the Centre paid out the last instalment of fiscal for the economy and i
 Far from living up to that claim, Rahul Gandhi led the coterie in questioning the timing and intent of the reformists who did little more than echo his own views about the party’s problems. No one, least of all well-wishers of the Congress party, would find it difficult to disagree with the issues raised by the party leaders such as the erosion of the party base, particularly among the youth, a drift caused by the absence of a full-time president, the dismantling of all forums for discussions in the party, concentration of power, and the disuse of the merit-cum-consensus method of appointments within the party. While the Congress is crumbling, the BJP is advancing its contentious agenda, these leaders pointed out. The notion of a conflict between loyalists and dissenters is being peddled by a gang of self-serving leaders to explain the churn in the Congress.
 
 Those who may not play the obsequious roles conventionally scripted for a Congress leader are Mr. Gandhi’s greatest allies if he were to push for the party’s revival. It is possible that reformists also have a career agenda, but that is no sin in politics.
-
-
 
 ---
 
@@ -1400,6 +1391,12 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 
 **COURSE-4**
 *Adobe Photoshop CC-Basic Photoshop Training* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
 
 
 
