@@ -1384,8 +1384,16 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 ***20th October, 2020***
 
 **COURSE-1** 
-
- *PYTHON for Everybody* - (COMPLETED) ✔
+*PYTHON for Everybody* - (COMPLETED) ✔
   - Practice on: [http://localhost:8888/notebooks/ds/PRACTICE.ipynb] 
   - Practice Questions from:[https://www.codesdope.com/practice/python-string/]
+  
+ 
+**COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
+
   
