@@ -1359,7 +1359,7 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 ***THE HINDU EDITORIALS*** 🧐
 > Hope amid uncertainty: On IMF’s World Economic Outlook.
   
-***18th October, 2020***
+***19th October, 2020***
 
 **COURSE-1** 
 
