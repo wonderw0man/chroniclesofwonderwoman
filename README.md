@@ -1381,7 +1381,7 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 ***THE HINDU EDITORIALS*** 🧐
 > The NEET challenge: On conducting of NEET exams.
 
-***19th October, 2020***
+***20th October, 2020***
 
 **COURSE-1** 
 
