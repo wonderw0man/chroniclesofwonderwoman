@@ -1424,7 +1424,7 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> The triumph of hope: On Jacinda Ardern's election victory.
 
 
 
