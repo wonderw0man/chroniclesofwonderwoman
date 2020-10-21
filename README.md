@@ -1398,6 +1398,16 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 ***THE HINDU EDITORIALS*** 🧐
 > A tool for thought: On coronavirus pandemic in India.
  
+ 
+
+***20th October, 2020***
+
+**COURSE-1** 
+*PYTHON for Everybody* - (COMPLETED) ✔
+  - Practice on: [http://localhost:8888/notebooks/ds/PRACTICE.ipynb] 
+  - Practice Questions from:[https://www.codesdope.com/practice/python-string/]
+  
+ 
 
 
 
