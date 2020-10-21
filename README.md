@@ -1420,6 +1420,11 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 **COURSE-4**
 *Adobe Photoshop CC-Basic Photoshop Training* - (On Going...)
 
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
 
 
 
