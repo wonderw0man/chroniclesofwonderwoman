@@ -1407,7 +1407,8 @@ Certain measures, including Tamil Nadu’s move to reserve 7.5% of MBBS seats fo
 
 ***THE HINDU EDITORIALS*** 🧐
 > A tool for thought: On coronavirus pandemic in India.
- 
+A committee of experts — well-regarded mathematicians and infectious disease experts — appointed by the Department of Science and Technology to use mathematical modelling and forecast the course of the pandemic has brought good tidings. By their estimate, India passed its COVID-19 peak in September and the decline in the overall caseload being observed for nearly a month now is to continue. The decline will continue only if there are no major mutations during winter, protective antibodies are durable, and current restrictions are maintained. There would be no significant gains from a strict lockdown beyond the district level, and current containment measures would suffice, except if there are local outbreaks that threaten to overwhelm health-care facilities there. Their calculation also showed a peak by July latest, with anything from six to 15 times the existing infections had there been no lockdown or if it had been delayed to April.
+The datasets it has relied on are publicly available and the modelling employs a category of models called SEIR that estimates, within a population, those Susceptible, Exposed, Infected and Recovered. It is extremely dependent on the quality of data that is used as an input and relies as much on simplifying assumptions that sacrifice complexity for comprehension but there is nothing to suggest, from what is known about the exercise, that it is more likely to be true than similar estimates from scores of models the world over that subscribe to a certain degree of rigour.
  
 
 ***21st October, 2020***
