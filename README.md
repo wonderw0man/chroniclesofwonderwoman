@@ -1400,7 +1400,7 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
  
  
 
-***20th October, 2020***
+***21st October, 2020***
 
 **COURSE-1** 
 *PYTHON for Everybody* - (COMPLETED) ✔
