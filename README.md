@@ -1380,6 +1380,10 @@ With the cumulative loss in output relative to the pre-pandemic projected path e
 
 ***THE HINDU EDITORIALS*** 🧐
 > The NEET challenge: On conducting of NEET exams.
+The results were declared last week, and the top score was a perfect 720, scored not by one, but two students, who will have their choice of college in the undergraduate medical programme. The decision to conduct the exam, when there was uncertainty about the ability of students to reach the centres, was probably bold, though it had not factored in the lowest common denominator. Students in certain circumstances, , and in certain boards of education will remain at a disadvantage, as a result of this. Even as scores show an overall improvement over the years, States must not rest in their endeavour to ease the access to, and enhance students’ ability to clear the test successfully, even without the need to spend much on coaching classes.
+
+Certain measures, including Tamil Nadu’s move to reserve 7.5% of MBBS seats for State government school students who clear NEET, running State-sponsored, free or heavily subsidised coaching programmes, and a reassessment of the regional State syllabus, will all enable a more equitable scenario. If coaching can help bridge the yawning gap, then the State could mandate that private coaching centres do not charge exorbitantly for conducting year-long coaching programmes and even provide reasonable subsidies for certain groups of students.
+
 
 ***20th October, 2020***
 
