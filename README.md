@@ -1354,6 +1354,10 @@ In the long term, the effects of flooding due to deluges can only be mitigated i
 
 ***THE HINDU EDITORIALS*** 🧐
 > Hope amid uncertainty: On IMF’s World Economic Outlook.
+With COVID-19 having already extracted a toll of over a million lives, accompanied by an evisceration of livelihoods and output in economies, prognosticating the economic future even as the pandemic rages on is an unenviable task. The Fund’s economists have gamely sought to make forecasts for world output through 2020, 2021 and into the medium term. While the global economy is projected to shrink 4.4% this year, reflecting a less severe contraction than the 5.2% drop estimated in June, output is seen rebounding at a marginally slower 5.2% pace in 2021. Pointing out that the pandemic is set to leave scars well into the medium term ‘as labour markets take time to heal, investment is held back by uncertainty and balance sheet problems, and lost schooling impairs human capital’, IMF Chief Economist Gita Gopinath contends that global growth will gradually slow to about 3.5% in the medium term.
+
+With the cumulative loss in output relative to the pre-pandemic projected path estimated to more than double to $28 trillion over 2020–25, efforts to improve average living standards are certain to be severely set back. Observing that the pandemic is set to widen inequality between economies and within nations, the Fund has urged greater international cooperation. It is imperative for all countries to work closely to ensure that new treatments and vaccines are made available to all since wider and faster availability of medical solutions could boost global income by almost $9 trillion by end-2025, reducing income divergence, she says.
+
   
 ***19th October, 2020***
 
