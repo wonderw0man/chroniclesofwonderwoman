@@ -1445,5 +1445,5 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
->
+> A crucial season: On festivals in the time of COVID-19.
 
