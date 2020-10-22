@@ -1326,6 +1326,11 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 
 ***THE HINDU EDITORIALS*** 🧐
 > Dealing with a deluge: On Hyderabad floods.
+A deep monsoon depression over the west central Bay of Bengal, which weakened as it moved over Telangana, resulted in downpours over several districts in the State, severely affecting the city of Hyderabad as well. On October 13, the monthly average rainfall of Hyderabad for October was surpassed on a single day when 192 mm of rain fell. Such a high intensity downpour in a short span is bound to affect a densely populated urban area, and Hyderabad was no exception. At least 24 people were killed and several localities submerged and isolated following incessant rains and the overflowing of the city’s lakes.
+
+Construction over lake beds and encroachments of drainage channels have been identified as problems that have exacerbated flooding and inundation in the city in the past . But the little that has been done to unblock existing storm drains over the last decade has not been enough to handle the requirements of the city, which still depends upon an antiquated sewerage and drainage system. Hyderabad urgently needs to expand and remodel its drainage system. An analysis by the Centre for Science and Environment in 2016 revealed that 3,245 hectares of water bodies were lost in Hyderabad between 1989 and 2001.
+
+In the long term, the effects of flooding due to deluges can only be mitigated if urban planners take into account the hydro-geology of cities and ensure that construction, development and land occupation do not take place in a way that reduces the area of wetlands.
 
 
 ***18th October, 2020***
