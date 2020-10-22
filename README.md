@@ -1389,9 +1389,6 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 **COURSE-3**  
 *CS50's Introduction to Computer Science* - (On Going...)
 
-**COURSE-4**
-*Adobe Photoshop CC-Basic Photoshop Training* - (On Going...)
-
 ---
 ### SUMMARY
 
@@ -1417,15 +1414,20 @@ In 1976, the police and right-wing thugs massacred protesters in Thammasat Unive
 **COURSE-3**  
 *CS50's Introduction to Computer Science* - (On Going...)
 
-**COURSE-4**
-*Adobe Photoshop CC-Basic Photoshop Training* - (On Going...)
-
 ---
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
 > The triumph of hope: On Jacinda Ardern's election victory.
 
+
+
+***20th October, 2020***
+
+**COURSE-1** 
+*PYTHON for Everybody* - (COMPLETED) ✔
+  - Practice on: [http://localhost:8888/notebooks/ds/PRACTICE.ipynb] 
+  - Practice Questions from:[https://www.codesdope.com/practice/python-string/]
 
 
 
