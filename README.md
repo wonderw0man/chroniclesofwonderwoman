@@ -1436,7 +1436,7 @@ The datasets it has relied on are publicly available and the modelling employs a
 
 
 
-***20th October, 2020***
+***22nd October, 2020***
 
 **COURSE-1** 
 *PYTHON for Everybody* - (COMPLETED) ✔
