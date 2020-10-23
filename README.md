@@ -1475,4 +1475,7 @@ The datasets it has relied on are publicly available and the modelling employs a
 > Reading a book **THE DESIGN OF EVERYDAY THINKING**
   [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
 
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
 
