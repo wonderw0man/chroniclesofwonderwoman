@@ -1482,3 +1482,8 @@ The datasets it has relied on are publicly available and the modelling employs a
 **COURSE-4**
 *Fundamentals of Graphic Design* - (On Going...)
 
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
