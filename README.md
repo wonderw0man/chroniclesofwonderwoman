@@ -1479,3 +1479,6 @@ The datasets it has relied on are publicly available and the modelling employs a
 *CS50's Introduction to Computer Science* - (On Going...)
 
 
+**COURSE-4**
+*Fundamentals of Graphic Design* - (On Going...)
+
