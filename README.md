@@ -1488,7 +1488,7 @@ The datasets it has relied on are publicly available and the modelling employs a
 ***THE HINDU EDITORIALS*** 🧐
 > Unrest in Pakistan: On movement against Imran Khan government.
 
-***23rd October, 2020***
+***24th October, 2020***
 
 **COURSE-1** 
 *PYTHON for Everybody* - (COMPLETED) ✔
