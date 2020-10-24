@@ -1512,5 +1512,5 @@ The datasets it has relied on are publicly available and the modelling employs a
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Taking on the Centre: On States rejecting farm laws.
 
