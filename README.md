@@ -1497,3 +1497,19 @@ The datasets it has relied on are publicly available and the modelling employs a
 
 **COURSE-2**  
 
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
+**COURSE-3**  
+*CS50's Introduction to Computer Science* - (On Going...)
+
+
+**COURSE-4**
+*Fundamentals of Graphic Design* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
