@@ -1554,5 +1554,5 @@ Whatever the outcome, clear from the groundswell of opposition across the countr
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Two together: On India-U.S. ties and China.
 
