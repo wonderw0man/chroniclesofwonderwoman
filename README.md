@@ -1433,6 +1433,11 @@ The datasets it has relied on are publicly available and the modelling employs a
 
 ***THE HINDU EDITORIALS*** 🧐
 > The triumph of hope: On Jacinda Ardern's election victory.
+Jacinda Ardern was expected to win Saturday’s parliamentary election in New Zealand given that almost all opinion polls had predicted this for the 40-year-old global liberal icon, noted for her inclusive politics and tough handling of the coronavirus pandemic. But it was the margin of the victory that surprised many. Her centre-left Labour Party won 49.1% of the popular vote and is projected to take 64 seats in the 120-member Parliament. This is Labour’s greatest victory in almost 50 years and the biggest victory of any party since the nation adopted a proportional representation voting system, which gives assembly seats to any party winning more than 5% vote, in 1996.
+
+The Opposition centre-right National Party won 26.8% of the vote and is projected to take 35 seats, down from the 56 seats it won in the previous election. Ardern, who came to power in 2017 by forming a coalition with the Greens and the nationalist New Zealand First party, faced unprecedented challenges in her first term, from the Christchurch terrorist attack and the White Island volcanic eruption to the COVID-19 outbreak. " She herself had turned the polls into a de facto referendum on her government’s handling of the pandemic by calling it the ‘COVID election". It has eliminated community transmission by imposing strict lockdowns and brought back relative normalcy before the election.
+
+The COVID-19 threat is still looming large.
 
 
 
