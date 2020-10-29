@@ -1513,6 +1513,11 @@ The datasets it has relied on are publicly available and the modelling employs a
 
 ***THE HINDU EDITORIALS*** 🧐
 > Taking on the Centre: On States rejecting farm laws.
+Punjab has been the hub of the opposition to the Centre’s legislative exercise to change the basics of trade and commerce in agriculture. The Akali Dal, the main opposition in the State, eventually withdrew its Cabinet minister and later walked out of the NDA government at the Centre. Punjab argues that the central Acts would cause «grave detriment and prejudice» to agricultural communities. A key issue raised by Punjab’s proposed amendments is whether they are legally valid and where they stand in the teeth of the Centre’s legislation.
+
+States can indeed amend central laws enacted under the Concurrent List, subject to the condition that provisions repugnant to the parliamentary Acts will have to get the President’s assent, without which they do not come into force. The Punjab Bills note that agriculture is under the legislative domain on the States, as the subject falls under the State List in the Seventh Schedule. By stretching the entry’s meaning to include agriculture, Parliament has managed to pass laws in the domain of the States. In these circumstances, States aggrieved by the farm sector laws will either have to go the Punjab way to adopt Bills that would require presidential assent, as Rajasthan has decided to do, or challenge the validity of the central laws in the Supreme Court, as Chhattisgarh is said to be considering.
+
+Whatever the outcome, clear from the groundswell of opposition across the country is that a cavalier and centralised approach to issues that affect millions of farmers ill-serves a diverse country.
 
 
 ***29th October, 2020***
