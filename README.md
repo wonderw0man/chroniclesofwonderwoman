@@ -1515,7 +1515,7 @@ The datasets it has relied on are publicly available and the modelling employs a
 > Taking on the Centre: On States rejecting farm laws.
 
 
-***24th October, 2020***
+***29th October, 2020***
 
 **COURSE-1** 
 *PYTHON for Everybody* - (COMPLETED) ✔
