@@ -1487,6 +1487,10 @@ The datasets it has relied on are publicly available and the modelling employs a
 
 ***THE HINDU EDITORIALS*** 🧐
 > Unrest in Pakistan: On movement against Imran Khan government.
+Events in Pakistan’s Sindh province in the last few days indicate that the Imran Khan government is dealing with a serious political crisis, perhaps its biggest, since taking office in 2018. Eleven Opposition parties, which have now formed the Pakistan Democratic Movement , have held two mammoth rallies, part of a plan for nationwide agitations, calling for the resignation of the PTI government over law and order, food shortages, inflation and gas cuts. Khan included, have attacked Pakistan’s omnipotent military establishment when in opposition, and drop the rhetoric when they come to power, Mr. Sharif’s comments indicate a popular sentiment that is chafing at the curbs by the Pakistani establishment. The PTI government’s response is a well-worn script.
+
+For the past few months, government prosecutors, on Mr. Khan’s orders, have focused on preparing cases to send as many members of the Opposition to prison. The co-chairperson of the Pakistan’s People’s Party and former Pakistan President, Asif Ali Zardari, is already in custody on money laundering charges, while the government has requested the U. Sharif so that he can be charged and tried again. What made matters erupt was the arrest that had reportedly been carried out after Army rangers surrounded the Sindh Inspector General’s home and forced him to sign the FIR against Mr. Top echelons of Sindh’s police force, backed by the Provincial PPP government, rose in outrage, applying en masse for leave after expressing their distress over the humiliation meted out to their chief. This was an unprecedented response which could have seen a more serious stand-off between the police and the Army.
+
 
 ***24th October, 2020***
 
