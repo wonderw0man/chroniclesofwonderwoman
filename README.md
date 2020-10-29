@@ -1460,6 +1460,9 @@ The datasets it has relied on are publicly available and the modelling employs a
 
 ***THE HINDU EDITORIALS*** 🧐
 > A crucial season: On festivals in the time of COVID-19.
+Faced with a potential reversal of gains that India has made in slowing the spread of COVID-19, Prime Minister Narendra Modi has appealed against weakening the fight during the annual season of festivals. Modi’s appeal, which comes during the Navratri celebrations, and ahead of Dussehra, Deepavali and other festivals, is to be welcomed, although the opportunity to caution the public was not grasped early enough. The Union Health Ministry’s data point to a rising trend in daily cases in Bihar, Delhi, Maharashtra, Manipur, and West Bengal, while Andhra Pradesh, Karnataka and Tamil Nadu, with their high levels of incidence earlier, have started showing a decline in test positivity rates, a more reliable metric than absolute cases. Health messaging on the dangers of another wave of infections can be effective if it is not drowned by repeated emphasis of massive recoveries.
+
+Modi has suggested that the fight must not weaken until there is a vaccine, and experts and WHO want countries to learn to live with an endemic virus. In parallel, the Centre should launch policy reform to transform a predominantly commercialised health system into one providing universal coverage.
 
 
 ***23rd October, 2020***
