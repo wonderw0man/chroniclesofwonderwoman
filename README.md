@@ -1557,7 +1557,7 @@ Whatever the outcome, clear from the groundswell of opposition across the countr
 > Two together: On India-U.S. ties and China.
 
 
-***29th October, 2020***
+***31st October, 2020***
 
 **COURSE-1** 
 *PYTHON for Everybody* - (COMPLETED) ✔
