@@ -1562,5 +1562,13 @@ Whatever the outcome, clear from the groundswell of opposition across the countr
 **COURSE-1** 
 *PYTHON for Everybody* - (COMPLETED) ✔
   - Practice on: [http://localhost:8888/notebooks/ds/PRACTICE.ipynb] 
+  
+ **COURSE-2**  
+
+*DESIGN Thinking for Innovation* - (COMPLETED) ✔
+> Reading a book **THE DESIGN OF EVERYDAY THINKING**
+  [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
+
+
   - Practice Questions from:[https://www.codesdope.com/practice/python-string/]
 
