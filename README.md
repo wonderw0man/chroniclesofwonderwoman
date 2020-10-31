@@ -1568,7 +1568,5 @@ Whatever the outcome, clear from the groundswell of opposition across the countr
 *DESIGN Thinking for Innovation* - (COMPLETED) ✔
 > Reading a book **THE DESIGN OF EVERYDAY THINKING**
   [https://drive.google.com/drive/folders/1uRJXIB4246BWaoLeaRYrYWJ1_O5mYkxS]
-
-
   - Practice Questions from:[https://www.codesdope.com/practice/python-string/]
 
