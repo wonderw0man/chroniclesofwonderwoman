@@ -1585,3 +1585,10 @@ Whatever the outcome, clear from the groundswell of opposition across the countr
 
 # NOVEMBER
 
+***31st October, 2020***
+
+**COURSE-1** 
+*PYTHON for Everybody* - (COMPLETED) ✔
+  - Practice on: [http://localhost:8888/notebooks/ds/PRACTICE.ipynb] 
+  - Practice Questions from:[https://www.codesdope.com/practice/python-string/]
+  
