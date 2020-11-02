@@ -1609,4 +1609,4 @@ Whatever the outcome, clear from the groundswell of opposition across the countr
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> A fierce contest: On U.S. election results.
