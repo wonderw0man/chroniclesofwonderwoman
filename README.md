@@ -1605,3 +1605,9 @@ Whatever the outcome, clear from the groundswell of opposition across the countr
 
 **COURSE-4**
 *Fundamentals of Graphic Design* - (On Going...)
+
+---
+### SUMMARY
+
+***THE HINDU EDITORIALS*** 🧐
+> 
