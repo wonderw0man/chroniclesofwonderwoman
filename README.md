@@ -1635,5 +1635,5 @@ Whatever the outcome, clear from the groundswell of opposition across the countr
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Back to school: On reopening of schools post lockdown.
 
