@@ -1611,14 +1611,13 @@ Whatever the outcome, clear from the groundswell of opposition across the countr
 ***THE HINDU EDITORIALS*** 🧐
 > A fierce contest: On U.S. election results.
 
-***02nd November, 2020***
+***03rd November, 2020***
 
 **COURSE-1** 
 *PYTHON for Everybody* - (COMPLETED) ✔
   - Practice on: [http://localhost:8888/notebooks/ds/PRACTICE.ipynb] 
   - Practice Questions from:[https://www.codesdope.com/practice/python-string/]
  
-
  **COURSE-2**  
 
 *DESIGN Thinking for Innovation* - (COMPLETED) ✔
