@@ -1658,4 +1658,4 @@ Whatever the outcome, clear from the groundswell of opposition across the countr
 ### SUMMARY
 
 ***THE HINDU EDITORIALS*** 🧐
-> 
+> Bihar blues: On Phase II of Bihar Assembly Elections.
