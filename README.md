@@ -1660,7 +1660,7 @@ Whatever the outcome, clear from the groundswell of opposition across the countr
 ***THE HINDU EDITORIALS*** 🧐
 > Bihar blues: On Phase II of Bihar Assembly Elections.
 
-***04th November, 2020***
+***11th November, 2020***
 
 **COURSE-1** 
 *PYTHON for Everybody* - (COMPLETED) ✔
